@@ -1,0 +1,2063 @@
+[
+  {
+    "ulpin": "27250010045001",
+    "deed_number": "PUN-HAV4-2016-11892",
+    "registration_date": "2016-11-23",
+    "sub_registrar_office": "Sub-Registrar Haveli-4, Pune",
+    "document_type": "Partition & Release Deed (Vatap-Patra)",
+    "market_value_inr": 18500000,
+    "consideration_amount_inr": 0,
+    "stamp_duty_paid_inr": 370000,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-001",
+        "type": "Simple Mortgage with Deposit of Title Deeds",
+        "financial_institution": "State Bank of India (Wagholi Branch)",
+        "account_or_ref": "AGRI-CROP-782291",
+        "amount_inr": 2500000,
+        "registered_on": "2018-02-19",
+        "status": "Active Lien",
+        "clearance_due_date": "2028-03-31"
+      }
+    ],
+    "non_encumbrance_status": "Lien Attached",
+    "ec_valid_till": "2024-12-31"
+  },
+  {
+    "ulpin": "27250010045002",
+    "deed_number": "PUN-HAV4-2024-03418",
+    "registration_date": "2024-02-05",
+    "sub_registrar_office": "Sub-Registrar Haveli-4, Pune",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 28500000,
+    "consideration_amount_inr": 31000000,
+    "stamp_duty_paid_inr": 2170000,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance (Nil Encumbrance Certificate)",
+    "ec_valid_till": "2025-02-05"
+  },
+  {
+    "ulpin": "09030020114003",
+    "deed_number": "UP-LKO-SRO3-2015-8819",
+    "registration_date": "2015-06-12",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Succession Record (Virasat Panjiyan)",
+    "market_value_inr": 9200000,
+    "consideration_amount_inr": 0,
+    "stamp_duty_paid_inr": 184000,
+    "registration_fee_inr": 20000,
+    "encumbrances": [
+      {
+        "id": "ENC-002",
+        "type": "Kisan Credit Card (KCC) Hypothecation",
+        "financial_institution": "Bank of Baroda (Mohanlalganj Branch)",
+        "account_or_ref": "KCC-LKO-00918",
+        "amount_inr": 650000,
+        "registered_on": "2019-07-22",
+        "status": "Active Lien",
+        "clearance_due_date": "2025-07-21"
+      }
+    ],
+    "non_encumbrance_status": "Agricultural Hypothecation Active",
+    "ec_valid_till": "2024-10-15"
+  },
+  {
+    "ulpin": "09030020114004",
+    "deed_number": "UP-LKO-SRO3-2020-5501",
+    "registration_date": "2020-09-17",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Agreement to Sell with Possession",
+    "market_value_inr": 6500000,
+    "consideration_amount_inr": 5800000,
+    "stamp_duty_paid_inr": 406000,
+    "registration_fee_inr": 20000,
+    "encumbrances": [
+      {
+        "id": "ENC-003",
+        "type": "Court Interim Injunction / Lis Pendens",
+        "financial_institution": "Civil Court Senior Division, Lucknow",
+        "account_or_ref": "OS-112-2023",
+        "amount_inr": 0,
+        "registered_on": "2023-07-04",
+        "status": "Restrained from Alienation",
+        "clearance_due_date": "Subject to Court Verdict"
+      }
+    ],
+    "non_encumbrance_status": "Disputed / Court Restraint Active",
+    "ec_valid_till": "2023-07-04"
+  },
+  {
+    "ulpin": "33010050082005",
+    "deed_number": "TN-KANCHI-SRO1-2022-7718",
+    "registration_date": "2022-08-30",
+    "sub_registrar_office": "Joint-I SRO Kanchipuram",
+    "document_type": "Absolute Sale Deed (Kraya Pathiram)",
+    "market_value_inr": 12500000,
+    "consideration_amount_inr": 13800000,
+    "stamp_duty_paid_inr": 966000,
+    "registration_fee_inr": 552000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance (Form 15 Clean EC)",
+    "ec_valid_till": "2025-08-30"
+  },
+  {
+    "ulpin": "33010050082006",
+    "deed_number": "TN-KANCHI-SRO1-2019-4402",
+    "registration_date": "2019-02-14",
+    "sub_registrar_office": "Joint-I SRO Kanchipuram",
+    "document_type": "Memorandum of Deposit of Title Deeds (MODT)",
+    "market_value_inr": 16000000,
+    "consideration_amount_inr": 16000000,
+    "stamp_duty_paid_inr": 160000,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-004",
+        "type": "Equitable Mortgage (MODT)",
+        "financial_institution": "Canara Bank SME Hub Kanchipuram",
+        "account_or_ref": "TERM-LOAN-CAN-8812",
+        "amount_inr": 7500000,
+        "registered_on": "2019-02-14",
+        "status": "Active Lien",
+        "clearance_due_date": "2026-03-31"
+      }
+    ],
+    "non_encumbrance_status": "Lien Attached (Canara Bank)",
+    "ec_valid_till": "2024-09-30"
+  },
+  {
+    "ulpin": "27200040019007",
+    "deed_number": "MUM-BAN-2021-99882",
+    "registration_date": "2021-12-10",
+    "sub_registrar_office": "Sub-Registrar Bandra, Mumbai",
+    "document_type": "Tripartite Deed of Assignment",
+    "market_value_inr": 62000000,
+    "consideration_amount_inr": 65000000,
+    "stamp_duty_paid_inr": 3900000,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance (Search Report 30 Years Clear)",
+    "ec_valid_till": "2025-12-10"
+  },
+  {
+    "ulpin": "27200040019008",
+    "deed_number": "MUM-BAN-2023-14902",
+    "registration_date": "2023-04-01",
+    "sub_registrar_office": "Sub-Registrar Bandra, Mumbai",
+    "document_type": "Development Agreement & Power of Attorney",
+    "market_value_inr": 145000000,
+    "consideration_amount_inr": 160000000,
+    "stamp_duty_paid_inr": 8000000,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-005",
+        "type": "Construction Project Finance Charge",
+        "financial_institution": "HDFC Bank Corporate Banking",
+        "account_or_ref": "CF-RE-HDFC-99124",
+        "amount_inr": 50000000,
+        "registered_on": "2023-04-18",
+        "status": "Active Consortium Lien",
+        "clearance_due_date": "2027-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered with ROC & CERSAI",
+    "ec_valid_till": "2024-11-30"
+  },
+  {
+    "ulpin": "29040030018009",
+    "deed_number": "KA-BLR-KGR-2017-3310",
+    "registration_date": "2017-05-18",
+    "sub_registrar_office": "Sub-Registrar Kengeri / South, Bengaluru",
+    "document_type": "Partition Deed (Kootumba Vata)",
+    "market_value_inr": 18000000,
+    "consideration_amount_inr": 0,
+    "stamp_duty_paid_inr": 250000,
+    "registration_fee_inr": 25000,
+    "encumbrances": [
+      {
+        "id": "ENC-006",
+        "type": "Statutory Government Restriction (Lake Buffer)",
+        "financial_institution": "Revenue Dept, Govt of Karnataka",
+        "account_or_ref": "REV-BLR-NGT-BUFFER",
+        "amount_inr": 0,
+        "registered_on": "2022-11-30",
+        "status": "Prohibited from Non-Ag Transfer",
+        "clearance_due_date": "Indefinite"
+      }
+    ],
+    "non_encumbrance_status": "Encumbered by Statutory Regulation",
+    "ec_valid_till": "2022-11-30"
+  },
+  {
+    "ulpin": "36020010077010",
+    "deed_number": "TS-RR-SER-2023-10029",
+    "registration_date": "2023-07-11",
+    "sub_registrar_office": "Sub-Registrar Serilingampally, Hyderabad",
+    "document_type": "Gift Settlement Deed (Dharani Instant)",
+    "market_value_inr": 48000000,
+    "consideration_amount_inr": 0,
+    "stamp_duty_paid_inr": 480000,
+    "registration_fee_inr": 24000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Nil Encumbrance Certificate (Dharani Verified)",
+    "ec_valid_till": "2025-07-11"
+  },
+  {
+    "ulpin": "04010010017011",
+    "deed_number": "CH-UT-SRO1-2022-3391",
+    "registration_date": "2022-03-24",
+    "sub_registrar_office": "Sub-Registrar Sector 17, Chandigarh (UT)",
+    "document_type": "Conveyance Deed of Commercial Freehold",
+    "market_value_inr": 81500000,
+    "consideration_amount_inr": 85000000,
+    "stamp_duty_paid_inr": 5100000,
+    "registration_fee_inr": 50000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance (Nil Encumbrance Certificate)",
+    "ec_valid_till": "2025-03-24"
+  },
+  {
+    "ulpin": "29180060200796",
+    "deed_number": "KAR-18-2023-5379",
+    "registration_date": "2021-07-08",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 47861404,
+    "consideration_amount_inr": 50254474,
+    "stamp_duty_paid_inr": 3350298,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-533",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 19144561,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060200541",
+    "deed_number": "KAR-18-2023-8246",
+    "registration_date": "2024-02-22",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 9843264,
+    "consideration_amount_inr": 10335427,
+    "stamp_duty_paid_inr": 689028,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020115808",
+    "deed_number": "UTT-03-2018-1231",
+    "registration_date": "2023-07-28",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 6974054,
+    "consideration_amount_inr": 7322756,
+    "stamp_duty_paid_inr": 488183,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050083944",
+    "deed_number": "TAM-01-2020-5933",
+    "registration_date": "2023-05-08",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 52294912,
+    "consideration_amount_inr": 54909657,
+    "stamp_duty_paid_inr": 3660643,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020114846",
+    "deed_number": "UTT-03-2022-8368",
+    "registration_date": "2020-09-24",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 15189489,
+    "consideration_amount_inr": 15948963,
+    "stamp_duty_paid_inr": 1063264,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "27250010046554",
+    "deed_number": "MAH-25-2019-2797",
+    "registration_date": "2018-01-15",
+    "sub_registrar_office": "Sub-Registrar Haveli-4, Pune",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 54262764,
+    "consideration_amount_inr": 56975902,
+    "stamp_duty_paid_inr": 3798393,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-726",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 21705105,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020115172",
+    "deed_number": "UTT-03-2021-8193",
+    "registration_date": "2021-04-09",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 28713663,
+    "consideration_amount_inr": 30149346,
+    "stamp_duty_paid_inr": 2009956,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020117775",
+    "deed_number": "UTT-03-2024-2708",
+    "registration_date": "2023-03-14",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 151290160,
+    "consideration_amount_inr": 158854668,
+    "stamp_duty_paid_inr": 10590311,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-804",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 60516064,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020115865",
+    "deed_number": "UTT-03-2021-2659",
+    "registration_date": "2022-08-04",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 97588200,
+    "consideration_amount_inr": 102467610,
+    "stamp_duty_paid_inr": 6831174,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-654",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 39035280,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020114814",
+    "deed_number": "UTT-03-2018-3415",
+    "registration_date": "2021-08-10",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 11509344,
+    "consideration_amount_inr": 12084811,
+    "stamp_duty_paid_inr": 805654,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-288",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 4603737,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "27250010046552",
+    "deed_number": "MAH-25-2022-7918",
+    "registration_date": "2024-03-22",
+    "sub_registrar_office": "Sub-Registrar Haveli-4, Pune",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 19420560,
+    "consideration_amount_inr": 20391588,
+    "stamp_duty_paid_inr": 1359439,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020117378",
+    "deed_number": "UTT-03-2019-9657",
+    "registration_date": "2021-12-05",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 181744620,
+    "consideration_amount_inr": 190831851,
+    "stamp_duty_paid_inr": 12722123,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020117666",
+    "deed_number": "UTT-03-2023-3361",
+    "registration_date": "2020-12-20",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 49118382,
+    "consideration_amount_inr": 51574301,
+    "stamp_duty_paid_inr": 3438286,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050084533",
+    "deed_number": "TAM-01-2021-6609",
+    "registration_date": "2024-02-13",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 69311490,
+    "consideration_amount_inr": 72777064,
+    "stamp_duty_paid_inr": 4851804,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "27250010045435",
+    "deed_number": "MAH-25-2018-4004",
+    "registration_date": "2020-10-24",
+    "sub_registrar_office": "Sub-Registrar Haveli-4, Pune",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 7190018,
+    "consideration_amount_inr": 7549518,
+    "stamp_duty_paid_inr": 503301,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010016771",
+    "deed_number": "CHA-01-2018-8387",
+    "registration_date": "2019-04-23",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 90305400,
+    "consideration_amount_inr": 94820670,
+    "stamp_duty_paid_inr": 6321378,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020117408",
+    "deed_number": "UTT-03-2019-7488",
+    "registration_date": "2024-05-21",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 171801536,
+    "consideration_amount_inr": 180391612,
+    "stamp_duty_paid_inr": 12026107,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-155",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 68720614,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050082726",
+    "deed_number": "TAM-01-2020-6810",
+    "registration_date": "2020-05-14",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 62397137,
+    "consideration_amount_inr": 65516993,
+    "stamp_duty_paid_inr": 4367799,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-350",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 24958854,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020117392",
+    "deed_number": "UTT-03-2023-3189",
+    "registration_date": "2022-09-24",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 37386300,
+    "consideration_amount_inr": 39255615,
+    "stamp_duty_paid_inr": 2617041,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050083438",
+    "deed_number": "TAM-01-2018-5505",
+    "registration_date": "2021-08-11",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 29956332,
+    "consideration_amount_inr": 31454148,
+    "stamp_duty_paid_inr": 2096943,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-989",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 11982532,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020115952",
+    "deed_number": "UTT-03-2022-7162",
+    "registration_date": "2023-03-14",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 82034424,
+    "consideration_amount_inr": 86136145,
+    "stamp_duty_paid_inr": 5742409,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-391",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 32813769,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010016889",
+    "deed_number": "CHA-01-2021-3393",
+    "registration_date": "2024-11-03",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 39264480,
+    "consideration_amount_inr": 41227704,
+    "stamp_duty_paid_inr": 2748513,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020115771",
+    "deed_number": "UTT-03-2020-5454",
+    "registration_date": "2023-08-17",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 67022304,
+    "consideration_amount_inr": 70373419,
+    "stamp_duty_paid_inr": 4691561,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "27250010047902",
+    "deed_number": "MAH-25-2023-3624",
+    "registration_date": "2019-03-02",
+    "sub_registrar_office": "Sub-Registrar Haveli-4, Pune",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 62218191,
+    "consideration_amount_inr": 65329100,
+    "stamp_duty_paid_inr": 4355273,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-472",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 24887276,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "27250010045286",
+    "deed_number": "MAH-25-2018-3833",
+    "registration_date": "2021-12-24",
+    "sub_registrar_office": "Sub-Registrar Haveli-4, Pune",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 23919412,
+    "consideration_amount_inr": 25115382,
+    "stamp_duty_paid_inr": 1674358,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-469",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 9567764,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050084852",
+    "deed_number": "TAM-01-2024-9339",
+    "registration_date": "2023-01-17",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 171553640,
+    "consideration_amount_inr": 180131322,
+    "stamp_duty_paid_inr": 12008754,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-835",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 68621456,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050084234",
+    "deed_number": "TAM-01-2023-9336",
+    "registration_date": "2020-06-21",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 26111076,
+    "consideration_amount_inr": 27416629,
+    "stamp_duty_paid_inr": 1827775,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010012401",
+    "deed_number": "CHA-01-2018-6235",
+    "registration_date": "2021-09-13",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 38083500,
+    "consideration_amount_inr": 39987675,
+    "stamp_duty_paid_inr": 2665845,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010012219",
+    "deed_number": "CHA-01-2023-2072",
+    "registration_date": "2024-01-05",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 29951130,
+    "consideration_amount_inr": 31448686,
+    "stamp_duty_paid_inr": 2096579,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020117539",
+    "deed_number": "UTT-03-2023-4853",
+    "registration_date": "2023-07-16",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 77125095,
+    "consideration_amount_inr": 80981349,
+    "stamp_duty_paid_inr": 5398756,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-138",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 30850038,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "27250010048192",
+    "deed_number": "MAH-25-2018-8149",
+    "registration_date": "2022-02-16",
+    "sub_registrar_office": "Sub-Registrar Haveli-4, Pune",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 51450740,
+    "consideration_amount_inr": 54023277,
+    "stamp_duty_paid_inr": 3601551,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-384",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 20580296,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010012168",
+    "deed_number": "CHA-01-2022-1046",
+    "registration_date": "2024-12-04",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 67904964,
+    "consideration_amount_inr": 71300212,
+    "stamp_duty_paid_inr": 4753347,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050082385",
+    "deed_number": "TAM-01-2021-3127",
+    "registration_date": "2019-05-16",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 92235248,
+    "consideration_amount_inr": 96847010,
+    "stamp_duty_paid_inr": 6456467,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060201344",
+    "deed_number": "KAR-18-2018-5988",
+    "registration_date": "2021-06-08",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 22313606,
+    "consideration_amount_inr": 23429286,
+    "stamp_duty_paid_inr": 1561952,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-388",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 8925442,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010016541",
+    "deed_number": "CHA-01-2020-6295",
+    "registration_date": "2019-07-17",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 25826790,
+    "consideration_amount_inr": 27118129,
+    "stamp_duty_paid_inr": 1807875,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-434",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 10330716,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060201239",
+    "deed_number": "KAR-18-2021-2968",
+    "registration_date": "2019-10-13",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 102715624,
+    "consideration_amount_inr": 107851405,
+    "stamp_duty_paid_inr": 7190093,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060202928",
+    "deed_number": "KAR-18-2023-1741",
+    "registration_date": "2021-10-23",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 70602006,
+    "consideration_amount_inr": 74132106,
+    "stamp_duty_paid_inr": 4942140,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060200497",
+    "deed_number": "KAR-18-2022-2741",
+    "registration_date": "2018-12-21",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 37497600,
+    "consideration_amount_inr": 39372480,
+    "stamp_duty_paid_inr": 2624832,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060202959",
+    "deed_number": "KAR-18-2023-3541",
+    "registration_date": "2023-06-10",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 19481403,
+    "consideration_amount_inr": 20455473,
+    "stamp_duty_paid_inr": 1363698,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "27250010046901",
+    "deed_number": "MAH-25-2020-5000",
+    "registration_date": "2018-03-03",
+    "sub_registrar_office": "Sub-Registrar Haveli-4, Pune",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 47386386,
+    "consideration_amount_inr": 49755705,
+    "stamp_duty_paid_inr": 3317047,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010014167",
+    "deed_number": "CHA-01-2021-7437",
+    "registration_date": "2021-06-25",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 58907676,
+    "consideration_amount_inr": 61853059,
+    "stamp_duty_paid_inr": 4123537,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010016717",
+    "deed_number": "CHA-01-2021-7563",
+    "registration_date": "2023-01-18",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 77625108,
+    "consideration_amount_inr": 81506363,
+    "stamp_duty_paid_inr": 5433757,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010014837",
+    "deed_number": "CHA-01-2020-5757",
+    "registration_date": "2020-09-07",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 40881896,
+    "consideration_amount_inr": 42925990,
+    "stamp_duty_paid_inr": 2861732,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060201257",
+    "deed_number": "KAR-18-2021-3849",
+    "registration_date": "2021-04-27",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 20227903,
+    "consideration_amount_inr": 21239298,
+    "stamp_duty_paid_inr": 1415953,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010012674",
+    "deed_number": "CHA-01-2019-4894",
+    "registration_date": "2018-06-03",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 135332563,
+    "consideration_amount_inr": 142099191,
+    "stamp_duty_paid_inr": 9473279,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-269",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 54133025,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050083176",
+    "deed_number": "TAM-01-2018-6956",
+    "registration_date": "2024-08-05",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 45547265,
+    "consideration_amount_inr": 47824628,
+    "stamp_duty_paid_inr": 3188308,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050083471",
+    "deed_number": "TAM-01-2020-3219",
+    "registration_date": "2021-03-09",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 183912898,
+    "consideration_amount_inr": 193108542,
+    "stamp_duty_paid_inr": 12873902,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020117665",
+    "deed_number": "UTT-03-2018-4838",
+    "registration_date": "2023-08-02",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 114486669,
+    "consideration_amount_inr": 120211002,
+    "stamp_duty_paid_inr": 8014066,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020114394",
+    "deed_number": "UTT-03-2018-2254",
+    "registration_date": "2018-02-16",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 63566880,
+    "consideration_amount_inr": 66745224,
+    "stamp_duty_paid_inr": 4449681,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010014304",
+    "deed_number": "CHA-01-2024-9128",
+    "registration_date": "2024-12-13",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 91101997,
+    "consideration_amount_inr": 95657096,
+    "stamp_duty_paid_inr": 6377139,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020114281",
+    "deed_number": "UTT-03-2018-9832",
+    "registration_date": "2024-10-10",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 43212715,
+    "consideration_amount_inr": 45373350,
+    "stamp_duty_paid_inr": 3024890,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-375",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 17285086,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060202464",
+    "deed_number": "KAR-18-2024-2232",
+    "registration_date": "2018-12-01",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 54150924,
+    "consideration_amount_inr": 56858470,
+    "stamp_duty_paid_inr": 3790564,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-717",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 21660369,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010016406",
+    "deed_number": "CHA-01-2023-4270",
+    "registration_date": "2019-08-04",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 133959224,
+    "consideration_amount_inr": 140657185,
+    "stamp_duty_paid_inr": 9377145,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-611",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 53583689,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010012201",
+    "deed_number": "CHA-01-2019-9535",
+    "registration_date": "2024-07-11",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 110974776,
+    "consideration_amount_inr": 116523514,
+    "stamp_duty_paid_inr": 7768234,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050083416",
+    "deed_number": "TAM-01-2022-2722",
+    "registration_date": "2023-02-20",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 15989259,
+    "consideration_amount_inr": 16788721,
+    "stamp_duty_paid_inr": 1119248,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-414",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 6395703,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060200862",
+    "deed_number": "KAR-18-2021-1430",
+    "registration_date": "2020-03-18",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 27992666,
+    "consideration_amount_inr": 29392299,
+    "stamp_duty_paid_inr": 1959486,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-313",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 11197066,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010016533",
+    "deed_number": "CHA-01-2019-1608",
+    "registration_date": "2018-06-16",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 12172302,
+    "consideration_amount_inr": 12780917,
+    "stamp_duty_paid_inr": 852061,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "27250010048777",
+    "deed_number": "MAH-25-2020-4514",
+    "registration_date": "2023-09-19",
+    "sub_registrar_office": "Sub-Registrar Haveli-4, Pune",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 57548330,
+    "consideration_amount_inr": 60425746,
+    "stamp_duty_paid_inr": 4028383,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010016599",
+    "deed_number": "CHA-01-2018-6934",
+    "registration_date": "2020-10-26",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 17066775,
+    "consideration_amount_inr": 17920113,
+    "stamp_duty_paid_inr": 1194674,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-288",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 6826710,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010014215",
+    "deed_number": "CHA-01-2023-1666",
+    "registration_date": "2023-07-28",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 64538480,
+    "consideration_amount_inr": 67765404,
+    "stamp_duty_paid_inr": 4517693,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-945",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 25815392,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050083432",
+    "deed_number": "TAM-01-2020-5273",
+    "registration_date": "2023-07-03",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 58590934,
+    "consideration_amount_inr": 61520480,
+    "stamp_duty_paid_inr": 4101365,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050083633",
+    "deed_number": "TAM-01-2023-3652",
+    "registration_date": "2023-03-18",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 201152430,
+    "consideration_amount_inr": 211210051,
+    "stamp_duty_paid_inr": 14080670,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-506",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 80460972,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050082749",
+    "deed_number": "TAM-01-2021-4236",
+    "registration_date": "2020-12-11",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 42716199,
+    "consideration_amount_inr": 44852008,
+    "stamp_duty_paid_inr": 2990133,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060202937",
+    "deed_number": "KAR-18-2022-5500",
+    "registration_date": "2021-01-07",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 9963636,
+    "consideration_amount_inr": 10461817,
+    "stamp_duty_paid_inr": 697454,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-607",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 3985454,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060201879",
+    "deed_number": "KAR-18-2021-7326",
+    "registration_date": "2021-04-07",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 27073725,
+    "consideration_amount_inr": 28427411,
+    "stamp_duty_paid_inr": 1895160,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-825",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 10829490,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060202946",
+    "deed_number": "KAR-18-2020-4843",
+    "registration_date": "2024-02-28",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 101601630,
+    "consideration_amount_inr": 106681711,
+    "stamp_duty_paid_inr": 7112114,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-502",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 40640652,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020115793",
+    "deed_number": "UTT-03-2019-5401",
+    "registration_date": "2024-07-19",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 115632860,
+    "consideration_amount_inr": 121414503,
+    "stamp_duty_paid_inr": 8094300,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "27250010048913",
+    "deed_number": "MAH-25-2020-7025",
+    "registration_date": "2024-10-06",
+    "sub_registrar_office": "Sub-Registrar Haveli-4, Pune",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 55186050,
+    "consideration_amount_inr": 57945352,
+    "stamp_duty_paid_inr": 3863023,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020117499",
+    "deed_number": "UTT-03-2023-6123",
+    "registration_date": "2020-07-01",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 73192240,
+    "consideration_amount_inr": 76851852,
+    "stamp_duty_paid_inr": 5123456,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-368",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 29276896,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050082553",
+    "deed_number": "TAM-01-2018-9411",
+    "registration_date": "2023-11-20",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 19957961,
+    "consideration_amount_inr": 20955859,
+    "stamp_duty_paid_inr": 1397057,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-219",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 7983184,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "27250010048474",
+    "deed_number": "MAH-25-2019-4788",
+    "registration_date": "2021-08-10",
+    "sub_registrar_office": "Sub-Registrar Haveli-4, Pune",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 65610260,
+    "consideration_amount_inr": 68890773,
+    "stamp_duty_paid_inr": 4592718,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060201758",
+    "deed_number": "KAR-18-2023-7874",
+    "registration_date": "2020-08-24",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 44324916,
+    "consideration_amount_inr": 46541161,
+    "stamp_duty_paid_inr": 3102744,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-803",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 17729966,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010012548",
+    "deed_number": "CHA-01-2020-1303",
+    "registration_date": "2019-03-23",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 31922292,
+    "consideration_amount_inr": 33518406,
+    "stamp_duty_paid_inr": 2234560,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-809",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 12768916,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020114496",
+    "deed_number": "UTT-03-2020-7881",
+    "registration_date": "2023-03-05",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 6382119,
+    "consideration_amount_inr": 6701224,
+    "stamp_duty_paid_inr": 446748,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-689",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 2552847,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060200212",
+    "deed_number": "KAR-18-2023-8291",
+    "registration_date": "2021-02-08",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 117648784,
+    "consideration_amount_inr": 123531223,
+    "stamp_duty_paid_inr": 8235414,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010014927",
+    "deed_number": "CHA-01-2023-9432",
+    "registration_date": "2020-04-24",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 74232752,
+    "consideration_amount_inr": 77944389,
+    "stamp_duty_paid_inr": 5196292,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050083203",
+    "deed_number": "TAM-01-2019-6561",
+    "registration_date": "2023-12-05",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 81948840,
+    "consideration_amount_inr": 86046282,
+    "stamp_duty_paid_inr": 5736418,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020117129",
+    "deed_number": "UTT-03-2023-3025",
+    "registration_date": "2021-11-22",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 33714525,
+    "consideration_amount_inr": 35400251,
+    "stamp_duty_paid_inr": 2360016,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060201618",
+    "deed_number": "KAR-18-2021-2362",
+    "registration_date": "2024-01-28",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 47562130,
+    "consideration_amount_inr": 49940236,
+    "stamp_duty_paid_inr": 3329349,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-770",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 19024852,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060201416",
+    "deed_number": "KAR-18-2020-4782",
+    "registration_date": "2020-07-01",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 81765189,
+    "consideration_amount_inr": 85853448,
+    "stamp_duty_paid_inr": 5723563,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-569",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 32706075,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050084788",
+    "deed_number": "TAM-01-2024-6732",
+    "registration_date": "2024-05-07",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 151266581,
+    "consideration_amount_inr": 158829910,
+    "stamp_duty_paid_inr": 10588660,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-521",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 60506632,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010014882",
+    "deed_number": "CHA-01-2019-9260",
+    "registration_date": "2019-02-07",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 132346114,
+    "consideration_amount_inr": 138963419,
+    "stamp_duty_paid_inr": 9264227,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-395",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 52938445,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010016583",
+    "deed_number": "CHA-01-2021-9017",
+    "registration_date": "2019-05-09",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 128121420,
+    "consideration_amount_inr": 134527491,
+    "stamp_duty_paid_inr": 8968499,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020114546",
+    "deed_number": "UTT-03-2022-1734",
+    "registration_date": "2019-07-06",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 93885858,
+    "consideration_amount_inr": 98580150,
+    "stamp_duty_paid_inr": 6572010,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-353",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 37554343,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010016976",
+    "deed_number": "CHA-01-2021-9830",
+    "registration_date": "2023-10-14",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 56190190,
+    "consideration_amount_inr": 58999699,
+    "stamp_duty_paid_inr": 3933313,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-438",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 22476076,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "27250010047398",
+    "deed_number": "MAH-25-2020-5915",
+    "registration_date": "2021-10-01",
+    "sub_registrar_office": "Sub-Registrar Haveli-4, Pune",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 69749715,
+    "consideration_amount_inr": 73237200,
+    "stamp_duty_paid_inr": 4882480,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-819",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 27899886,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "27250010048604",
+    "deed_number": "MAH-25-2022-1381",
+    "registration_date": "2020-08-20",
+    "sub_registrar_office": "Sub-Registrar Haveli-4, Pune",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 23867713,
+    "consideration_amount_inr": 25061098,
+    "stamp_duty_paid_inr": 1670739,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-422",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 9547085,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "27250010048406",
+    "deed_number": "MAH-25-2020-1852",
+    "registration_date": "2024-08-21",
+    "sub_registrar_office": "Sub-Registrar Haveli-4, Pune",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 43715490,
+    "consideration_amount_inr": 45901264,
+    "stamp_duty_paid_inr": 3060084,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-602",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 17486196,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060202939",
+    "deed_number": "KAR-18-2022-6227",
+    "registration_date": "2020-06-10",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 66073526,
+    "consideration_amount_inr": 69377202,
+    "stamp_duty_paid_inr": 4625146,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-356",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 26429410,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050083415",
+    "deed_number": "TAM-01-2020-5636",
+    "registration_date": "2020-04-23",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 26620538,
+    "consideration_amount_inr": 27951564,
+    "stamp_duty_paid_inr": 1863437,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-565",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 10648215,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "33010050084929",
+    "deed_number": "TAM-01-2022-2916",
+    "registration_date": "2023-12-02",
+    "sub_registrar_office": "Sub-Registrar Sriperumbudur, Kanchipuram",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 3929778,
+    "consideration_amount_inr": 4126266,
+    "stamp_duty_paid_inr": 275084,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-408",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 1571911,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010014672",
+    "deed_number": "CHA-01-2021-7603",
+    "registration_date": "2021-08-20",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 20014100,
+    "consideration_amount_inr": 21014805,
+    "stamp_duty_paid_inr": 1400987,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-610",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 8005640,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "27250010046209",
+    "deed_number": "MAH-25-2024-6139",
+    "registration_date": "2019-05-20",
+    "sub_registrar_office": "Sub-Registrar Haveli-4, Pune",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 47260584,
+    "consideration_amount_inr": 49623613,
+    "stamp_duty_paid_inr": 3308240,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-406",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 18904233,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010012931",
+    "deed_number": "CHA-01-2022-1026",
+    "registration_date": "2024-03-13",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 3088491,
+    "consideration_amount_inr": 3242915,
+    "stamp_duty_paid_inr": 216194,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "04010010012908",
+    "deed_number": "CHA-01-2019-4640",
+    "registration_date": "2022-11-26",
+    "sub_registrar_office": "Estate Office & Sub-Registrar Chandigarh",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 106647324,
+    "consideration_amount_inr": 111979690,
+    "stamp_duty_paid_inr": 7465312,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060202997",
+    "deed_number": "KAR-18-2018-6888",
+    "registration_date": "2022-10-06",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 131365164,
+    "consideration_amount_inr": 137933422,
+    "stamp_duty_paid_inr": 9195561,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060200375",
+    "deed_number": "KAR-18-2019-1202",
+    "registration_date": "2022-06-14",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 94801512,
+    "consideration_amount_inr": 99541587,
+    "stamp_duty_paid_inr": 6636105,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-792",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 37920604,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "29180060202848",
+    "deed_number": "KAR-18-2022-1281",
+    "registration_date": "2020-08-10",
+    "sub_registrar_office": "Sub-Registrar Anekal, Bengaluru",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 72301554,
+    "consideration_amount_inr": 75916631,
+    "stamp_duty_paid_inr": 5061108,
+    "registration_fee_inr": 30000,
+    "encumbrances": [
+      {
+        "id": "ENC-415",
+        "type": "Simple Mortgage Charge",
+        "financial_institution": "State Bank of India",
+        "amount_inr": 28920621,
+        "status": "Active Lien",
+        "clearance_due_date": "2030-12-31"
+      }
+    ],
+    "non_encumbrance_status": "Charge Registered",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "09030020114739",
+    "deed_number": "UTT-03-2021-2243",
+    "registration_date": "2023-12-10",
+    "sub_registrar_office": "Sub-Registrar Sarojini Nagar, Lucknow",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 73177488,
+    "consideration_amount_inr": 76836362,
+    "stamp_duty_paid_inr": 5122424,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  },
+  {
+    "ulpin": "27250010045431",
+    "deed_number": "MAH-25-2022-2314",
+    "registration_date": "2023-07-02",
+    "sub_registrar_office": "Sub-Registrar Haveli-4, Pune",
+    "document_type": "Conveyance Sale Deed (Kharedi-Khat)",
+    "market_value_inr": 94696734,
+    "consideration_amount_inr": 99431570,
+    "stamp_duty_paid_inr": 6628771,
+    "registration_fee_inr": 30000,
+    "encumbrances": [],
+    "non_encumbrance_status": "Free from Encumbrance",
+    "ec_valid_till": "2026-12-31"
+  }
+]

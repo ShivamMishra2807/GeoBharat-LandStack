@@ -1,0 +1,160 @@
+{
+  "type": "FeatureCollection",
+  "name": "GeoBharat_Utility_Infrastructure",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "UTIL-WATER-TRUNK-01",
+      "properties": {
+        "utility_type": "Water Supply Trunk Line",
+        "diameter_mm": 600,
+        "material": "Ductile Iron (DI)",
+        "operator": "Maharashtra Jeevan Pradhikaran (MJP) / PMC",
+        "status": "Operational",
+        "color": "#0284C7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [73.9770, 18.5798],
+          [73.9810, 18.5796],
+          [73.9845, 18.5801]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "UTIL-WATER-BRANCH-02",
+      "properties": {
+        "utility_type": "Potable Water Distribution Branch",
+        "diameter_mm": 250,
+        "material": "HDPE",
+        "operator": "Pune Municipal Corporation (PMC Water Works)",
+        "status": "Operational",
+        "color": "#38BDF8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [73.9812, 18.5796],
+          [73.9817, 18.5765]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "UTIL-POWER-HT-01",
+      "properties": {
+        "utility_type": "11kV High Tension (HT) Power Line",
+        "voltage_kv": 11,
+        "operator": "MSEDCL (Mahavitaran)",
+        "status": "Energized",
+        "color": "#EAB308"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [73.9782, 18.5758],
+          [73.9816, 18.5764],
+          [73.9851, 18.5769]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "UTIL-POWER-SUBSTATION-01",
+      "properties": {
+        "utility_type": "Distribution Transformer & Substation",
+        "capacity_kva": 500,
+        "operator": "MSEDCL Wagholi 33/11kV Substation",
+        "status": "Active",
+        "color": "#F59E0B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.9815, 18.5765]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "UTIL-SEWERAGE-01",
+      "properties": {
+        "utility_type": "Underground Trunk Sewerage Line",
+        "diameter_mm": 450,
+        "operator": "PMC Drainage Department",
+        "status": "Operational",
+        "color": "#78716C"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [73.9788, 18.5758],
+          [73.9818, 18.5762],
+          [73.9848, 18.5766]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "UTIL-ECO-BUFFER-ZONE",
+      "properties": {
+        "utility_type": "Ecological Wetland & Lake Buffer Line",
+        "restriction": "National Green Tribunal (NGT) 75m Non-Construction Buffer",
+        "status": "Mandatory Conservation",
+        "color": "#14B8A6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.6410, 12.9255],
+          [77.6440, 12.9250],
+          [77.6465, 12.9230],
+          [77.6480, 12.9205]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "UTIL-TN-HT-01",
+      "properties": {
+        "utility_type": "11kV Industrial Power Feeder (TANGEDCO)",
+        "voltage_kv": 11,
+        "operator": "Tamil Nadu Generation and Distribution Corp",
+        "status": "Energized",
+        "color": "#EAB308"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [79.9410, 12.9690],
+          [79.9450, 12.9692],
+          [79.9490, 12.9695]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "UTIL-CHD-DUCT-01",
+      "properties": {
+        "utility_type": "Underground Utility Trench & Telecom Conduit",
+        "operator": "Chandigarh Smart City Municipal SPV",
+        "status": "Operational",
+        "color": "#0284C7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [76.7810, 30.7425],
+          [76.7840, 30.7425],
+          [76.7865, 30.7428]
+        ]
+      }
+    }
+  ]
+}

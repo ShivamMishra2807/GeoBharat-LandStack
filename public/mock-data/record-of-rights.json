@@ -1,0 +1,4813 @@
+[
+  {
+    "ulpin": "27250010045001",
+    "record_type": "7/12 & 8A (Satbara & Ath-A)",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "taluka": "Haveli",
+    "village": "Wagholi",
+    "khata_number": "KH-842",
+    "survey_number": "45/1A",
+    "sub_division": "1A",
+    "owner_name": "Ramesh Dnyandev Patil",
+    "father_spouse_name": "Late Dnyandev Tukaram Patil",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ramesh Dnyandev Patil",
+        "share": "1/2 (50%)",
+        "relation": "Self"
+      },
+      {
+        "name": "Vithal Dnyandev Patil",
+        "share": "1/2 (50%)",
+        "relation": "Brother"
+      }
+    ],
+    "native_area": {
+      "raw": "1 Hectare 24 Ares",
+      "unit": "Hectare-Ares-Guntha",
+      "breakdown": "1 Ha, 24 Are (Equivalent to 31 Gunthas)"
+    },
+    "normalized_area": {
+      "sqm": 12400,
+      "acres": 3.064,
+      "hectares": 1.24
+    },
+    "soil_type": "Medium Black Cotton (Madhyam Kali)",
+    "land_revenue_assessment_inr": 48.5,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-PUN-2023-9122",
+        "date": "2023-08-14",
+        "type": "Varas (Succession / Inheritance)",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Circle Officer Haveli-2",
+        "remarks": "Deceased Dnyandev Patil replaced by legal heirs Ramesh & Vithal Patil via legal affidavit"
+      },
+      {
+        "mutation_id": "MUT-PUN-2018-4501",
+        "date": "2018-02-19",
+        "type": "Bojha (Bank Hypothecation)",
+        "status": "Active Lien",
+        "officer": "Talathi Wagholi",
+        "remarks": "Agricultural crop loan charge registered in favor of State Bank of India Wagholi Branch"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010045002",
+    "record_type": "7/12 & 8A (Satbara & Ath-A)",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "taluka": "Haveli",
+    "village": "Wagholi",
+    "khata_number": "KH-843",
+    "survey_number": "45/1B",
+    "sub_division": "1B",
+    "owner_name": "Sunita Suresh Gaikwad",
+    "father_spouse_name": "Suresh Namdev Gaikwad",
+    "occupant_class": "Class 1 (Bhogwata-1)",
+    "co_owners": [
+      {
+        "name": "Sunita Suresh Gaikwad",
+        "share": "Sole Owner (100%)",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0 Hectare 85 Ares",
+      "unit": "Hectare-Ares-Guntha",
+      "breakdown": "85 Are (Equivalent to 21.25 Gunthas)"
+    },
+    "normalized_area": {
+      "sqm": 8500,
+      "acres": 2.1,
+      "hectares": 0.85
+    },
+    "soil_type": "Non-Agricultural Converted (NA Commercial)",
+    "land_revenue_assessment_inr": 340.0,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-PUN-2024-1029",
+        "date": "2024-02-10",
+        "type": "Kharidi (Registered Sale Deed)",
+        "status": "In Notice Period (Form 9 Issued)",
+        "officer": "Talathi Wagholi",
+        "remarks": "Public 15-day objection notice issued under Section 150 of MLR Code 1966"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114003",
+    "record_type": "Khatauni / Khasra",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Mohanlalganj",
+    "khata_number": "Khatauni No. 00318",
+    "survey_number": "Khasra 114/2",
+    "sub_division": "Minjumla 2",
+    "owner_name": "Ramashray Shambhunath Yadav",
+    "father_spouse_name": "Shambhunath Harinarayan Yadav",
+    "occupant_class": "Sankramaniya Bhumidhar (Transferable Rights)",
+    "co_owners": [
+      {
+        "name": "Ramashray Yadav",
+        "share": "2/3 (66.6%)",
+        "relation": "Self"
+      },
+      {
+        "name": "Awadhesh Yadav",
+        "share": "1/3 (33.3%)",
+        "relation": "Brother"
+      }
+    ],
+    "native_area": {
+      "raw": "3 Bigha 12 Biswa",
+      "unit": "Bigha-Biswa (Pakka Bigha)",
+      "breakdown": "3 Bigha, 12 Biswa (1 Bigha = 2,529.3 Sq. M / 20 Biswa)"
+    },
+    "normalized_area": {
+      "sqm": 9105,
+      "acres": 2.25,
+      "hectares": 0.91
+    },
+    "soil_type": "Alluvial Loam (Doab Matiyar)",
+    "land_revenue_assessment_inr": 92.0,
+    "mutation_history": [
+      {
+        "mutation_id": "DAKHIL-KHARIJ-2021-404",
+        "date": "2021-10-05",
+        "type": "Dakhil Kharij (Mutation of Name)",
+        "status": "Certified by Tehsildar",
+        "officer": "Nayab Tehsildar Mohanlalganj",
+        "remarks": "Succession approved under Section 33/35 of UP Revenue Code 2006"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114004",
+    "record_type": "Khatauni / Khasra",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Mohanlalganj",
+    "khata_number": "Khatauni No. 00319",
+    "survey_number": "Khasra 115",
+    "sub_division": "Full",
+    "owner_name": "Brijeshwar Awadh Sharma",
+    "father_spouse_name": "Awadh Bihari Sharma",
+    "occupant_class": "Sankramaniya Bhumidhar (Transferable)",
+    "co_owners": [
+      {
+        "name": "Brijeshwar Sharma",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1 Bigha 5 Biswa",
+      "unit": "Bigha-Biswa",
+      "breakdown": "1 Bigha, 5 Biswa"
+    },
+    "normalized_area": {
+      "sqm": 3162,
+      "acres": 0.781,
+      "hectares": 0.316
+    },
+    "soil_type": "Sandy Clay Loam",
+    "land_revenue_assessment_inr": 35.0,
+    "mutation_history": [
+      {
+        "mutation_id": "DISPUTE-LKO-2023-019",
+        "date": "2023-06-22",
+        "type": "Tarasheemi / Batwara (Partition Dispute)",
+        "status": "Stay Order Pending",
+        "officer": "Sub-Divisional Magistrate (SDM)",
+        "remarks": "Boundary demarcation contested by boundary neighbor Khasra 116"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082005",
+    "record_type": "Patta / Chitta (Tamil Nadu e-Services)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Kanchipuram",
+    "village": "Sriperumbudur",
+    "khata_number": "Patta No. 428",
+    "survey_number": "82/3",
+    "sub_division": "3",
+    "owner_name": "M. Muruganathan & Lakshmi M.",
+    "father_spouse_name": "K. Munusamy",
+    "occupant_class": "Ryotwari Land (Freehold)",
+    "co_owners": [
+      {
+        "name": "M. Muruganathan",
+        "share": "50%",
+        "relation": "Joint Owner"
+      },
+      {
+        "name": "Lakshmi M.",
+        "share": "50%",
+        "relation": "Spouse"
+      }
+    ],
+    "native_area": {
+      "raw": "88 Cents",
+      "unit": "Cents / Grounds",
+      "breakdown": "88 Cents (1 Cent = 435.6 Sq. Ft / 40.468 Sq. M)"
+    },
+    "normalized_area": {
+      "sqm": 3561,
+      "acres": 0.88,
+      "hectares": 0.356
+    },
+    "soil_type": "Red Gravel (Semman)",
+    "land_revenue_assessment_inr": 28.0,
+    "mutation_history": [
+      {
+        "mutation_id": "PATTA-TRANS-2022-81",
+        "date": "2022-09-08",
+        "type": "Patta Name Transfer (Sale Deed)",
+        "status": "Online Patta Transferred (Anytime Anywhere Patta)",
+        "officer": "Zonal Deputy Tahsildar Sriperumbudur",
+        "remarks": "Automatic name transfer executed post Sub-Registrar deed sync"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082006",
+    "record_type": "Patta / Chitta",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Kanchipuram",
+    "village": "Sriperumbudur",
+    "khata_number": "Patta No. 512",
+    "survey_number": "83/1",
+    "sub_division": "1",
+    "owner_name": "K. V. Soundararajan",
+    "father_spouse_name": "Late Venkatachari",
+    "occupant_class": "Ryotwari Manavari",
+    "co_owners": [
+      {
+        "name": "K. V. Soundararajan",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1 Acre 12 Cents",
+      "unit": "Acres & Cents",
+      "breakdown": "112 Cents total"
+    },
+    "normalized_area": {
+      "sqm": 4532,
+      "acres": 1.12,
+      "hectares": 0.453
+    },
+    "soil_type": "Dry Land (Punja)",
+    "land_revenue_assessment_inr": 36.5,
+    "mutation_history": [
+      {
+        "mutation_id": "PATTA-ENC-2020-194",
+        "date": "2020-03-12",
+        "type": "Bank Mortgage Entry",
+        "status": "Recorded in Chitta Ledger",
+        "officer": "Village Administrative Officer (VAO)",
+        "remarks": "MODT registered with Canara Bank Kanchipuram SME Branch"
+      }
+    ]
+  },
+  {
+    "ulpin": "27200040019007",
+    "record_type": "Urban Land Card (Property Card / PR Card)",
+    "state": "Maharashtra",
+    "district": "Mumbai Suburban",
+    "taluka": "Bandra",
+    "village": "Bandra East (Kala Nagar / BKC)",
+    "khata_number": "CTS Card No. 1904/A",
+    "survey_number": "City Survey No. 1904/A",
+    "sub_division": "A",
+    "owner_name": "Dr. Ananya Siddharth Mehra",
+    "father_spouse_name": "Siddharth Gautam Mehra",
+    "occupant_class": "Urban Freehold (N.A. Converted)",
+    "co_owners": [
+      {
+        "name": "Dr. Ananya Siddharth Mehra",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "850 Sq. Yards (7,650 Sq. Ft)",
+      "unit": "Sq. Yards / Gaj / Sq. Feet",
+      "breakdown": "850 Gaj (1 Gaj = 9 Sq. Ft = 0.8361 Sq. M)"
+    },
+    "normalized_area": {
+      "sqm": 710,
+      "acres": 0.175,
+      "hectares": 0.071
+    },
+    "soil_type": "Urban Commercial Zone (Metropolitan)",
+    "land_revenue_assessment_inr": 2150.0,
+    "mutation_history": [
+      {
+        "mutation_id": "PR-CARD-MUM-2021-399",
+        "date": "2021-12-20",
+        "type": "Conveyance Deed Registration",
+        "status": "Final Card Generated",
+        "officer": "Superintendent of Land Records (SLR) Mumbai Suburban",
+        "remarks": "Title mutated from MHADA to individual allottee via tripartite deed"
+      }
+    ]
+  },
+  {
+    "ulpin": "27200040019008",
+    "record_type": "Urban Land Card (Property Card / PR Card)",
+    "state": "Maharashtra",
+    "district": "Mumbai Suburban",
+    "taluka": "Bandra",
+    "village": "Bandra East",
+    "khata_number": "CTS Card No. 1905",
+    "survey_number": "City Survey No. 1905",
+    "sub_division": "Full",
+    "owner_name": "Horizon Realty Infratech LLP",
+    "father_spouse_name": "Corporate Entity (Director Rajesh Shah)",
+    "occupant_class": "Commercial Leasehold / Redevelopment",
+    "co_owners": [
+      {
+        "name": "Horizon Realty Infratech LLP",
+        "share": "100%",
+        "relation": "Entity"
+      }
+    ],
+    "native_area": {
+      "raw": "1,200 Sq. Yards (10,800 Sq. Ft)",
+      "unit": "Sq. Yards / Gaj",
+      "breakdown": "1,200 Sq. Yards (1,003.35 Sq. M)"
+    },
+    "normalized_area": {
+      "sqm": 1003,
+      "acres": 0.248,
+      "hectares": 0.1
+    },
+    "soil_type": "High Density Mixed Zone",
+    "land_revenue_assessment_inr": 4800.0,
+    "mutation_history": [
+      {
+        "mutation_id": "PR-CARD-MUM-2023-882",
+        "date": "2023-04-15",
+        "type": "Development Agreement Mutation",
+        "status": "Recorded",
+        "officer": "SLR Mumbai Suburban",
+        "remarks": "Redevelopment rights registered under Section 11 of Maharashtra MOFA"
+      }
+    ]
+  },
+  {
+    "ulpin": "29040030018009",
+    "record_type": "7/12 & 8A (RTC Pahani / Bhoomi)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Deenbandhu Nagar",
+    "khata_number": "RTC No. 991/B",
+    "survey_number": "18/2",
+    "sub_division": "2",
+    "owner_name": "C. Jayasheela & B. Ravi Kumar",
+    "father_spouse_name": "B. Munivenkatappa",
+    "occupant_class": "Inam Abolition Re-grant",
+    "co_owners": [
+      {
+        "name": "C. Jayasheela",
+        "share": "50%",
+        "relation": "Joint"
+      },
+      {
+        "name": "B. Ravi Kumar",
+        "share": "50%",
+        "relation": "Joint"
+      }
+    ],
+    "native_area": {
+      "raw": "24 Gunthas (0.60 Acre)",
+      "unit": "Gunthas",
+      "breakdown": "24 Gunthas (1 Guntha = 1,089 Sq. Ft = 101.17 Sq. M)"
+    },
+    "normalized_area": {
+      "sqm": 2428,
+      "acres": 0.6,
+      "hectares": 0.242
+    },
+    "soil_type": "Wet Wetland / Lake Catchment Buffer",
+    "land_revenue_assessment_inr": 18.0,
+    "mutation_history": [
+      {
+        "mutation_id": "BHOOMI-MR-2022-771",
+        "date": "2022-11-29",
+        "type": "Re-grant Regularization",
+        "status": "Govt Caution Notice Flagged",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Survey flagged for verification against NGT Lake Buffer Zone mandate (75m green zone)"
+      }
+    ]
+  },
+  {
+    "ulpin": "36020010077010",
+    "record_type": "Urban Land Card (Town Survey Land Register - TSLR)",
+    "state": "Telangana",
+    "district": "Ranga Reddy",
+    "taluka": "Serilingampally",
+    "village": "Gachibowli",
+    "khata_number": "TSLR Extract Ward 3, Block D",
+    "survey_number": "TSLR Plot 77",
+    "sub_division": "D-77",
+    "owner_name": "Srinivas Rao K. & Vijaya Rao K.",
+    "father_spouse_name": "K. Ranga Rao",
+    "occupant_class": "Patta / Freehold Converted",
+    "co_owners": [
+      {
+        "name": "Srinivas Rao K.",
+        "share": "50%",
+        "relation": "Primary"
+      },
+      {
+        "name": "Vijaya Rao K.",
+        "share": "50%",
+        "relation": "Spouse"
+      }
+    ],
+    "native_area": {
+      "raw": "2,400 Sq. Yards",
+      "unit": "Sq. Yards / Gaj",
+      "breakdown": "2,400 Sq. Yards (Equivalent to 0.496 Acre / 2,006 Sq. M)"
+    },
+    "normalized_area": {
+      "sqm": 2006,
+      "acres": 0.496,
+      "hectares": 0.2
+    },
+    "soil_type": "Rocky Granite Urban Plateau",
+    "land_revenue_assessment_inr": 1890.0,
+    "mutation_history": [
+      {
+        "mutation_id": "DHARANI-MUT-2023-559",
+        "date": "2023-07-11",
+        "type": "Gift Settlement Deed",
+        "status": "Instant Dharani Biometric Registered",
+        "officer": "Joint Sub-Registrar / Tehsildar Serilingampally",
+        "remarks": "Instant Dharani mutation completed with biometric verification of transferor & transferee"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010017011",
+    "record_type": "Urban Land Card (Chandigarh Estate Office Registry)",
+    "state": "Chandigarh (UT)",
+    "district": "Chandigarh",
+    "taluka": "Estate Office Chandigarh",
+    "village": "Sector 17 City Centre",
+    "khata_number": "CH-EO-SEC17-0091",
+    "survey_number": "Plot 17-C / Sector 17-D",
+    "sub_division": "C-17",
+    "owner_name": "Sardar Gurpreet Singh & Harpreet Kaur",
+    "father_spouse_name": "Late Jathedar Balwant Singh",
+    "occupant_class": "Urban Commercial Freehold (Allotted by UT Administration)",
+    "co_owners": [
+      {
+        "name": "Sardar Gurpreet Singh",
+        "share": "50%",
+        "relation": "Primary"
+      },
+      {
+        "name": "Harpreet Kaur",
+        "share": "50%",
+        "relation": "Spouse"
+      }
+    ],
+    "native_area": {
+      "raw": "1,500 Sq. Yards (1,254 Sq. M)",
+      "unit": "Sq. Yards / Gaj",
+      "breakdown": "1,500 Gaj (1 Gaj = 9 Sq. Ft)"
+    },
+    "normalized_area": {
+      "sqm": 1254,
+      "acres": 0.31,
+      "hectares": 0.125
+    },
+    "soil_type": "Urban Planned Commercial Grade (Le Corbusier Grid)",
+    "land_revenue_assessment_inr": 3500.0,
+    "mutation_history": [
+      {
+        "mutation_id": "CH-EO-MUT-2022-108",
+        "date": "2022-04-10",
+        "type": "Estate Office Transfer of Ownership",
+        "status": "Certified by Assistant Estate Officer",
+        "officer": "Assistant Estate Officer (AEO) Chandigarh",
+        "remarks": "Transfer of commercial site executed with clearance of non-encumbrance certificate and capital unearned increase fee"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200796",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Bannerghatta",
+    "khata_number": "KH-316",
+    "survey_number": "24/4A",
+    "sub_division": "4A",
+    "owner_name": "Rajesh Murugesan Pillai",
+    "father_spouse_name": "Late Murugesan Pillai",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Rajesh Murugesan Pillai",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.88 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "8753 sq.m (2.163 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 8753,
+      "acres": 2.163,
+      "hectares": 0.875
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 35.53,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-6382",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Rajesh Murugesan Pillai under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200541",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Bannerghatta",
+    "khata_number": "KH-132",
+    "survey_number": "192/1A",
+    "sub_division": "1A",
+    "owner_name": "Anand Venkatesh Iyer",
+    "father_spouse_name": "Late Venkatesh Iyer",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Anand Venkatesh Iyer",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.33 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "3312 sq.m (0.818 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 3312,
+      "acres": 0.818,
+      "hectares": 0.331
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 79.69,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-9752",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Anand Venkatesh Iyer under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115808",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Chinhat",
+    "khata_number": "KH-768",
+    "survey_number": "47/1",
+    "sub_division": "1",
+    "owner_name": "Manpreet Jaswant Kaur",
+    "father_spouse_name": "Late Jaswant Kaur",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Manpreet Jaswant Kaur",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.19 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "1906 sq.m (0.471 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 1906,
+      "acres": 0.471,
+      "hectares": 0.191
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 117.84,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-3884",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Manpreet Jaswant Kaur under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083944",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Oragadam",
+    "khata_number": "KH-569",
+    "survey_number": "163/3",
+    "sub_division": "3",
+    "owner_name": "Awadhesh Kumar Shukla",
+    "father_spouse_name": "Late Kumar Shukla",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Awadhesh Kumar Shukla",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.55 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "5521 sq.m (1.364 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 5521,
+      "acres": 1.364,
+      "hectares": 0.552
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 76.85,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-6215",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Awadhesh Kumar Shukla under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114846",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Jankipuram",
+    "khata_number": "KH-753",
+    "survey_number": "124/2B",
+    "sub_division": "2B",
+    "owner_name": "Ravi Bhanu Pandey",
+    "father_spouse_name": "Late Bhanu Pandey",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ravi Bhanu Pandey",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.41 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "4149 sq.m (1.025 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 4149,
+      "acres": 1.025,
+      "hectares": 0.415
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 36.51,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-2410",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Ravi Bhanu Pandey under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010046554",
+    "record_type": "7/12 & 8A",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "taluka": "Haveli",
+    "village": "Kesnand",
+    "khata_number": "KH-231",
+    "survey_number": "148/1",
+    "sub_division": "1",
+    "owner_name": "Manoj Kailash Yadav",
+    "father_spouse_name": "Late Kailash Yadav",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Manoj Kailash Yadav",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.36 Hectares",
+      "unit": "Hectare-Ares-Guntha",
+      "breakdown": "3618 sq.m (0.894 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 3618,
+      "acres": 0.894,
+      "hectares": 0.362
+    },
+    "soil_type": "Medium Black Cotton (Madhyam Kali)",
+    "land_revenue_assessment_inr": 79.8,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2725-2022-8880",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Haveli",
+        "remarks": "Ownership duly recorded in favour of Manoj Kailash Yadav under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115172",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Chinhat",
+    "khata_number": "KH-517",
+    "survey_number": "187/3",
+    "sub_division": "3",
+    "owner_name": "Ajay Baburao Suryavanshi",
+    "father_spouse_name": "Late Baburao Suryavanshi",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ajay Baburao Suryavanshi",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.47 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "4653 sq.m (1.15 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 4653,
+      "acres": 1.15,
+      "hectares": 0.465
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 39.36,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-3690",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Ajay Baburao Suryavanshi under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117775",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Malihabad",
+    "khata_number": "KH-489",
+    "survey_number": "108/2",
+    "sub_division": "2",
+    "owner_name": "Mahesh Vishnu Deshmukh",
+    "father_spouse_name": "Late Vishnu Deshmukh",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Mahesh Vishnu Deshmukh",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.35 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "13496 sq.m (3.335 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 13496,
+      "acres": 3.335,
+      "hectares": 1.35
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 36.92,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-7413",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Mahesh Vishnu Deshmukh under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115865",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Chinhat",
+    "khata_number": "KH-888",
+    "survey_number": "113/2",
+    "sub_division": "2",
+    "owner_name": "Gurpreet Balwinder Dhillon",
+    "father_spouse_name": "Late Balwinder Dhillon",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Gurpreet Balwinder Dhillon",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.59 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "15868 sq.m (3.921 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 15868,
+      "acres": 3.921,
+      "hectares": 1.587
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 67.06,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-2048",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Gurpreet Balwinder Dhillon under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114814",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Jankipuram",
+    "khata_number": "KH-672",
+    "survey_number": "194/3",
+    "sub_division": "3",
+    "owner_name": "Gurpreet Balwinder Dhillon",
+    "father_spouse_name": "Late Balwinder Dhillon",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Gurpreet Balwinder Dhillon",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.36 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "3633 sq.m (0.898 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 3633,
+      "acres": 0.898,
+      "hectares": 0.363
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 42.83,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-8803",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Gurpreet Balwinder Dhillon under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010046552",
+    "record_type": "7/12 & 8A",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "taluka": "Haveli",
+    "village": "Kesnand",
+    "khata_number": "KH-408",
+    "survey_number": "76/2",
+    "sub_division": "2",
+    "owner_name": "Brijesh Ramakant Tiwari",
+    "father_spouse_name": "Late Ramakant Tiwari",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Brijesh Ramakant Tiwari",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.33 Hectares",
+      "unit": "Hectare-Ares-Guntha",
+      "breakdown": "3330 sq.m (0.823 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 3330,
+      "acres": 0.823,
+      "hectares": 0.333
+    },
+    "soil_type": "Medium Black Cotton (Madhyam Kali)",
+    "land_revenue_assessment_inr": 52.97,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2725-2022-5682",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Haveli",
+        "remarks": "Ownership duly recorded in favour of Brijesh Ramakant Tiwari under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117378",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Malihabad",
+    "khata_number": "KH-154",
+    "survey_number": "159/2",
+    "sub_division": "2",
+    "owner_name": "Sridhar Ramasamy Gounder",
+    "father_spouse_name": "Late Ramasamy Gounder",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Sridhar Ramasamy Gounder",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.56 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "15555 sq.m (3.844 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 15555,
+      "acres": 3.844,
+      "hectares": 1.556
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 61.67,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-9259",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Sridhar Ramasamy Gounder under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117666",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Malihabad",
+    "khata_number": "KH-901",
+    "survey_number": "119/4A",
+    "sub_division": "4A",
+    "owner_name": "Sanjay Dattatraya Jadhav",
+    "father_spouse_name": "Late Dattatraya Jadhav",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Sanjay Dattatraya Jadhav",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.65 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "6498 sq.m (1.606 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 6498,
+      "acres": 1.606,
+      "hectares": 0.65
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 107.22,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-2681",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Sanjay Dattatraya Jadhav under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050084533",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Tambaram",
+    "khata_number": "KH-747",
+    "survey_number": "183/3",
+    "sub_division": "3",
+    "owner_name": "Murugan Palaniswamy Chettiar",
+    "father_spouse_name": "Late Palaniswamy Chettiar",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Murugan Palaniswamy Chettiar",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.59 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "5855 sq.m (1.447 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 5855,
+      "acres": 1.447,
+      "hectares": 0.586
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 80.1,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-2351",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Murugan Palaniswamy Chettiar under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010045435",
+    "record_type": "7/12 & 8A",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "taluka": "Haveli",
+    "village": "Wagholi",
+    "khata_number": "KH-869",
+    "survey_number": "132/5",
+    "sub_division": "5",
+    "owner_name": "Awadhesh Kumar Shukla",
+    "father_spouse_name": "Late Kumar Shukla",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Awadhesh Kumar Shukla",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.11 Hectares",
+      "unit": "Hectare-Ares-Guntha",
+      "breakdown": "1133 sq.m (0.28 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 1133,
+      "acres": 0.28,
+      "hectares": 0.113
+    },
+    "soil_type": "Medium Black Cotton (Madhyam Kali)",
+    "land_revenue_assessment_inr": 43.96,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2725-2022-5558",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Haveli",
+        "remarks": "Ownership duly recorded in favour of Awadhesh Kumar Shukla under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016771",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Manimajra",
+    "khata_number": "KH-566",
+    "survey_number": "151/2",
+    "sub_division": "2",
+    "owner_name": "Manpreet Jaswant Kaur",
+    "father_spouse_name": "Late Jaswant Kaur",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Manpreet Jaswant Kaur",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.28 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "12755 sq.m (3.152 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 12755,
+      "acres": 3.152,
+      "hectares": 1.276
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 92.31,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-3980",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Manpreet Jaswant Kaur under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117408",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Malihabad",
+    "khata_number": "KH-223",
+    "survey_number": "43/1",
+    "sub_division": "1",
+    "owner_name": "Sanjay Dattatraya Jadhav",
+    "father_spouse_name": "Late Dattatraya Jadhav",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Sanjay Dattatraya Jadhav",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.47 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "14704 sq.m (3.633 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 14704,
+      "acres": 3.633,
+      "hectares": 1.47
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 92.54,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-2198",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Sanjay Dattatraya Jadhav under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082726",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Perungalathur",
+    "khata_number": "KH-656",
+    "survey_number": "51/4A",
+    "sub_division": "4A",
+    "owner_name": "Praveen Suresh Bhat",
+    "father_spouse_name": "Late Suresh Bhat",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Praveen Suresh Bhat",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.07 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "10723 sq.m (2.65 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 10723,
+      "acres": 2.65,
+      "hectares": 1.072
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 52.48,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-8523",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Praveen Suresh Bhat under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117392",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Malihabad",
+    "khata_number": "KH-167",
+    "survey_number": "164/3",
+    "sub_division": "3",
+    "owner_name": "Murugan Palaniswamy Chettiar",
+    "father_spouse_name": "Late Palaniswamy Chettiar",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Murugan Palaniswamy Chettiar",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.47 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "4685 sq.m (1.158 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 4685,
+      "acres": 1.158,
+      "hectares": 0.469
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 77.22,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-5726",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Murugan Palaniswamy Chettiar under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083438",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Oragadam",
+    "khata_number": "KH-576",
+    "survey_number": "69/2B",
+    "sub_division": "2B",
+    "owner_name": "Sanjay Dattatraya Jadhav",
+    "father_spouse_name": "Late Dattatraya Jadhav",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Sanjay Dattatraya Jadhav",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.40 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "4007 sq.m (0.99 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 4007,
+      "acres": 0.99,
+      "hectares": 0.401
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 101.84,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-2538",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Sanjay Dattatraya Jadhav under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115952",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Chinhat",
+    "khata_number": "KH-942",
+    "survey_number": "50/3",
+    "sub_division": "3",
+    "owner_name": "Ajay Baburao Suryavanshi",
+    "father_spouse_name": "Late Baburao Suryavanshi",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ajay Baburao Suryavanshi",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.58 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "5823 sq.m (1.439 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 5823,
+      "acres": 1.439,
+      "hectares": 0.582
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 30.55,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-7001",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Ajay Baburao Suryavanshi under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016889",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Manimajra",
+    "khata_number": "KH-686",
+    "survey_number": "32/4A",
+    "sub_division": "4A",
+    "owner_name": "Karthik Subramanian Natarajan",
+    "father_spouse_name": "Late Subramanian Natarajan",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Karthik Subramanian Natarajan",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.45 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "4470 sq.m (1.105 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 4470,
+      "acres": 1.105,
+      "hectares": 0.447
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 75.7,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-1761",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Karthik Subramanian Natarajan under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115771",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Chinhat",
+    "khata_number": "KH-957",
+    "survey_number": "64/3",
+    "sub_division": "3",
+    "owner_name": "Ravi Bhanu Pandey",
+    "father_spouse_name": "Late Bhanu Pandey",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ravi Bhanu Pandey",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.58 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "5826 sq.m (1.44 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 5826,
+      "acres": 1.44,
+      "hectares": 0.583
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 40.84,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-5578",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Ravi Bhanu Pandey under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010047902",
+    "record_type": "7/12 & 8A",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "taluka": "Haveli",
+    "village": "Uruli Kanchan",
+    "khata_number": "KH-613",
+    "survey_number": "32/1",
+    "sub_division": "1",
+    "owner_name": "Rajesh Murugesan Pillai",
+    "father_spouse_name": "Late Murugesan Pillai",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Rajesh Murugesan Pillai",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.74 Hectares",
+      "unit": "Hectare-Ares-Guntha",
+      "breakdown": "7399 sq.m (1.828 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 7399,
+      "acres": 1.828,
+      "hectares": 0.74
+    },
+    "soil_type": "Medium Black Cotton (Madhyam Kali)",
+    "land_revenue_assessment_inr": 58.71,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2725-2022-4073",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Haveli",
+        "remarks": "Ownership duly recorded in favour of Rajesh Murugesan Pillai under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010045286",
+    "record_type": "7/12 & 8A",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "taluka": "Haveli",
+    "village": "Wagholi",
+    "khata_number": "KH-557",
+    "survey_number": "161/2",
+    "sub_division": "2",
+    "owner_name": "Manoj Kailash Yadav",
+    "father_spouse_name": "Late Kailash Yadav",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Manoj Kailash Yadav",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.79 Hectares",
+      "unit": "Hectare-Ares-Guntha",
+      "breakdown": "7876 sq.m (1.946 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 7876,
+      "acres": 1.946,
+      "hectares": 0.788
+    },
+    "soil_type": "Medium Black Cotton (Madhyam Kali)",
+    "land_revenue_assessment_inr": 95.84,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2725-2022-2613",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Haveli",
+        "remarks": "Ownership duly recorded in favour of Manoj Kailash Yadav under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050084852",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Tambaram",
+    "khata_number": "KH-180",
+    "survey_number": "199/1",
+    "sub_division": "1",
+    "owner_name": "Ashok Suryakant Verma",
+    "father_spouse_name": "Late Suryakant Verma",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ashok Suryakant Verma",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.49 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "14866 sq.m (3.673 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 14866,
+      "acres": 3.673,
+      "hectares": 1.487
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 47.9,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-1592",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Ashok Suryakant Verma under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050084234",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Tambaram",
+    "khata_number": "KH-371",
+    "survey_number": "38/3",
+    "sub_division": "3",
+    "owner_name": "Santosh Dharmendra Gupta",
+    "father_spouse_name": "Late Dharmendra Gupta",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Santosh Dharmendra Gupta",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.51 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "5078 sq.m (1.255 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 5078,
+      "acres": 1.255,
+      "hectares": 0.508
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 112.04,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-7509",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Santosh Dharmendra Gupta under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012401",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Sector 17",
+    "khata_number": "KH-744",
+    "survey_number": "87/1A",
+    "sub_division": "1A",
+    "owner_name": "Vikram Madhav Kadam",
+    "father_spouse_name": "Late Madhav Kadam",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Vikram Madhav Kadam",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.97 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "9750 sq.m (2.409 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 9750,
+      "acres": 2.409,
+      "hectares": 0.975
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 114.6,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-3252",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Vikram Madhav Kadam under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012219",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Sector 17",
+    "khata_number": "KH-832",
+    "survey_number": "16/1",
+    "sub_division": "1",
+    "owner_name": "Sanjay Dattatraya Jadhav",
+    "father_spouse_name": "Late Dattatraya Jadhav",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Sanjay Dattatraya Jadhav",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.34 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "13431 sq.m (3.319 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 13431,
+      "acres": 3.319,
+      "hectares": 1.343
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 48.86,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-7673",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Sanjay Dattatraya Jadhav under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117539",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Malihabad",
+    "khata_number": "KH-912",
+    "survey_number": "150/1A",
+    "sub_division": "1A",
+    "owner_name": "Sunil Dharamveer Sharma",
+    "father_spouse_name": "Late Dharamveer Sharma",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Sunil Dharamveer Sharma",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.22 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "12213 sq.m (3.018 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 12213,
+      "acres": 3.018,
+      "hectares": 1.221
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 48.21,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-7101",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Sunil Dharamveer Sharma under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048192",
+    "record_type": "7/12 & 8A",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "taluka": "Haveli",
+    "village": "Manjri",
+    "khata_number": "KH-603",
+    "survey_number": "54/1",
+    "sub_division": "1",
+    "owner_name": "Murugan Palaniswamy Chettiar",
+    "father_spouse_name": "Late Palaniswamy Chettiar",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Murugan Palaniswamy Chettiar",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.21 Hectares",
+      "unit": "Hectare-Ares-Guntha",
+      "breakdown": "12055 sq.m (2.979 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 12055,
+      "acres": 2.979,
+      "hectares": 1.206
+    },
+    "soil_type": "Medium Black Cotton (Madhyam Kali)",
+    "land_revenue_assessment_inr": 92.6,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2725-2022-6496",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Haveli",
+        "remarks": "Ownership duly recorded in favour of Murugan Palaniswamy Chettiar under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012168",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Sector 17",
+    "khata_number": "KH-444",
+    "survey_number": "59/2",
+    "sub_division": "2",
+    "owner_name": "Ravi Bhanu Pandey",
+    "father_spouse_name": "Late Bhanu Pandey",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ravi Bhanu Pandey",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.84 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "8402 sq.m (2.076 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 8402,
+      "acres": 2.076,
+      "hectares": 0.84
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 113.96,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-6756",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Ravi Bhanu Pandey under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082385",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Perungalathur",
+    "khata_number": "KH-126",
+    "survey_number": "185/3",
+    "sub_division": "3",
+    "owner_name": "Sridhar Ramasamy Gounder",
+    "father_spouse_name": "Late Ramasamy Gounder",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Sridhar Ramasamy Gounder",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.70 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "6958 sq.m (1.719 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 6958,
+      "acres": 1.719,
+      "hectares": 0.696
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 76.07,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-5579",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Sridhar Ramasamy Gounder under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201344",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Anekal",
+    "khata_number": "KH-972",
+    "survey_number": "117/1",
+    "sub_division": "1",
+    "owner_name": "Ashok Suryakant Verma",
+    "father_spouse_name": "Late Suryakant Verma",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ashok Suryakant Verma",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.52 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "5222 sq.m (1.29 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 5222,
+      "acres": 1.29,
+      "hectares": 0.522
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 99.93,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-4908",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Ashok Suryakant Verma under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016541",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Manimajra",
+    "khata_number": "KH-714",
+    "survey_number": "152/2",
+    "sub_division": "2",
+    "owner_name": "Sridhar Ramasamy Gounder",
+    "father_spouse_name": "Late Ramasamy Gounder",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Sridhar Ramasamy Gounder",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.64 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "6415 sq.m (1.585 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 6415,
+      "acres": 1.585,
+      "hectares": 0.641
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 33.82,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-9183",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Sridhar Ramasamy Gounder under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201239",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Anekal",
+    "khata_number": "KH-181",
+    "survey_number": "188/1A",
+    "sub_division": "1A",
+    "owner_name": "Deepak Shankar Bhosale",
+    "father_spouse_name": "Late Shankar Bhosale",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Deepak Shankar Bhosale",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.02 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "10186 sq.m (2.517 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 10186,
+      "acres": 2.517,
+      "hectares": 1.019
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 65.27,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-3970",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Deepak Shankar Bhosale under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202928",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Begur",
+    "khata_number": "KH-402",
+    "survey_number": "98/5",
+    "sub_division": "5",
+    "owner_name": "Mahesh Vishnu Deshmukh",
+    "father_spouse_name": "Late Vishnu Deshmukh",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Mahesh Vishnu Deshmukh",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.84 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "8402 sq.m (2.076 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 8402,
+      "acres": 2.076,
+      "hectares": 0.84
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 81.01,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-6257",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Mahesh Vishnu Deshmukh under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200497",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Bannerghatta",
+    "khata_number": "KH-279",
+    "survey_number": "25/2",
+    "sub_division": "2",
+    "owner_name": "Manoj Kailash Yadav",
+    "father_spouse_name": "Late Kailash Yadav",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Manoj Kailash Yadav",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.47 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "4725 sq.m (1.168 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 4725,
+      "acres": 1.168,
+      "hectares": 0.472
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 91.67,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-2078",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Manoj Kailash Yadav under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202959",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Begur",
+    "khata_number": "KH-996",
+    "survey_number": "79/2",
+    "sub_division": "2",
+    "owner_name": "Arun Gopal Kulkarni",
+    "father_spouse_name": "Late Gopal Kulkarni",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Arun Gopal Kulkarni",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.75 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "7467 sq.m (1.845 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 7467,
+      "acres": 1.845,
+      "hectares": 0.747
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 28.41,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-7056",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Arun Gopal Kulkarni under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010046901",
+    "record_type": "7/12 & 8A",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "taluka": "Haveli",
+    "village": "Kesnand",
+    "khata_number": "KH-941",
+    "survey_number": "107/1A",
+    "sub_division": "1A",
+    "owner_name": "Brijesh Ramakant Tiwari",
+    "father_spouse_name": "Late Ramakant Tiwari",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Brijesh Ramakant Tiwari",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.63 Hectares",
+      "unit": "Hectare-Ares-Guntha",
+      "breakdown": "6283 sq.m (1.553 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 6283,
+      "acres": 1.553,
+      "hectares": 0.628
+    },
+    "soil_type": "Medium Black Cotton (Madhyam Kali)",
+    "land_revenue_assessment_inr": 50.0,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2725-2022-4321",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Haveli",
+        "remarks": "Ownership duly recorded in favour of Brijesh Ramakant Tiwari under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014167",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Sector 34",
+    "khata_number": "KH-342",
+    "survey_number": "114/5",
+    "sub_division": "5",
+    "owner_name": "Sanjay Dattatraya Jadhav",
+    "father_spouse_name": "Late Dattatraya Jadhav",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Sanjay Dattatraya Jadhav",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.87 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "8709 sq.m (2.152 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 8709,
+      "acres": 2.152,
+      "hectares": 0.871
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 34.33,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-4777",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Sanjay Dattatraya Jadhav under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016717",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Manimajra",
+    "khata_number": "KH-886",
+    "survey_number": "193/2B",
+    "sub_division": "2B",
+    "owner_name": "Anand Venkatesh Iyer",
+    "father_spouse_name": "Late Venkatesh Iyer",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Anand Venkatesh Iyer",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.19 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "11913 sq.m (2.944 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 11913,
+      "acres": 2.944,
+      "hectares": 1.191
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 115.53,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-9969",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Anand Venkatesh Iyer under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014837",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Sector 34",
+    "khata_number": "KH-687",
+    "survey_number": "174/4A",
+    "sub_division": "4A",
+    "owner_name": "Santosh Dharmendra Gupta",
+    "father_spouse_name": "Late Dharmendra Gupta",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Santosh Dharmendra Gupta",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.34 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "3391 sq.m (0.838 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 3391,
+      "acres": 0.838,
+      "hectares": 0.339
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 41.17,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-4132",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Santosh Dharmendra Gupta under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201257",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Anekal",
+    "khata_number": "KH-236",
+    "survey_number": "108/2",
+    "sub_division": "2",
+    "owner_name": "Devendra Pratap Singh",
+    "father_spouse_name": "Late Pratap Singh",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Devendra Pratap Singh",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.21 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "2077 sq.m (0.513 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 2077,
+      "acres": 0.513,
+      "hectares": 0.208
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 45.31,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-7187",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Devendra Pratap Singh under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012674",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Sector 17",
+    "khata_number": "KH-494",
+    "survey_number": "105/5",
+    "sub_division": "5",
+    "owner_name": "Anand Venkatesh Iyer",
+    "father_spouse_name": "Late Venkatesh Iyer",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Anand Venkatesh Iyer",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.54 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "15419 sq.m (3.81 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 15419,
+      "acres": 3.81,
+      "hectares": 1.542
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 61.71,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-5065",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Anand Venkatesh Iyer under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083176",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Oragadam",
+    "khata_number": "KH-484",
+    "survey_number": "18/2B",
+    "sub_division": "2B",
+    "owner_name": "Ganesh Manjunath Hegde",
+    "father_spouse_name": "Late Manjunath Hegde",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ganesh Manjunath Hegde",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.32 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "13183 sq.m (3.258 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 13183,
+      "acres": 3.258,
+      "hectares": 1.318
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 43.51,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-7085",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Ganesh Manjunath Hegde under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083471",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Oragadam",
+    "khata_number": "KH-780",
+    "survey_number": "154/5",
+    "sub_division": "5",
+    "owner_name": "Nitin Bapurao Chavan",
+    "father_spouse_name": "Late Bapurao Chavan",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Nitin Bapurao Chavan",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.39 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "13897 sq.m (3.434 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 13897,
+      "acres": 3.434,
+      "hectares": 1.39
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 104.66,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-6018",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Nitin Bapurao Chavan under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117665",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Malihabad",
+    "khata_number": "KH-723",
+    "survey_number": "151/1",
+    "sub_division": "1",
+    "owner_name": "Ashok Suryakant Verma",
+    "father_spouse_name": "Late Suryakant Verma",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ashok Suryakant Verma",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.58 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "15763 sq.m (3.895 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 15763,
+      "acres": 3.895,
+      "hectares": 1.576
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 61.8,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-7478",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Ashok Suryakant Verma under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114394",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Jankipuram",
+    "khata_number": "KH-646",
+    "survey_number": "116/4A",
+    "sub_division": "4A",
+    "owner_name": "Sridhar Ramasamy Gounder",
+    "father_spouse_name": "Late Ramasamy Gounder",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Sridhar Ramasamy Gounder",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.02 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "10187 sq.m (2.517 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 10187,
+      "acres": 2.517,
+      "hectares": 1.019
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 55.31,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-2327",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Sridhar Ramasamy Gounder under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014304",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Sector 34",
+    "khata_number": "KH-216",
+    "survey_number": "100/1",
+    "sub_division": "1",
+    "owner_name": "Harpreet Joginder Singh",
+    "father_spouse_name": "Late Joginder Singh",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Harpreet Joginder Singh",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.90 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "9037 sq.m (2.233 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 9037,
+      "acres": 2.233,
+      "hectares": 0.904
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 70.11,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-8043",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Harpreet Joginder Singh under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114281",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Jankipuram",
+    "khata_number": "KH-487",
+    "survey_number": "196/5",
+    "sub_division": "5",
+    "owner_name": "Ganesh Manjunath Hegde",
+    "father_spouse_name": "Late Manjunath Hegde",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ganesh Manjunath Hegde",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.47 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "4745 sq.m (1.173 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 4745,
+      "acres": 1.173,
+      "hectares": 0.474
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 102.39,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-6644",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Ganesh Manjunath Hegde under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202464",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Begur",
+    "khata_number": "KH-975",
+    "survey_number": "154/4A",
+    "sub_division": "4A",
+    "owner_name": "Praveen Suresh Bhat",
+    "father_spouse_name": "Late Suresh Bhat",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Praveen Suresh Bhat",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.43 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "4278 sq.m (1.057 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 4278,
+      "acres": 1.057,
+      "hectares": 0.428
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 85.97,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-2397",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Praveen Suresh Bhat under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016406",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Manimajra",
+    "khata_number": "KH-284",
+    "survey_number": "23/1A",
+    "sub_division": "1A",
+    "owner_name": "Murugan Palaniswamy Chettiar",
+    "father_spouse_name": "Late Palaniswamy Chettiar",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Murugan Palaniswamy Chettiar",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.04 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "10378 sq.m (2.564 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 10378,
+      "acres": 2.564,
+      "hectares": 1.038
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 109.66,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-2494",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Murugan Palaniswamy Chettiar under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012201",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Sector 17",
+    "khata_number": "KH-239",
+    "survey_number": "70/4A",
+    "sub_division": "4A",
+    "owner_name": "Sunil Dharamveer Sharma",
+    "father_spouse_name": "Late Dharamveer Sharma",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Sunil Dharamveer Sharma",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.69 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "6952 sq.m (1.718 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 6952,
+      "acres": 1.718,
+      "hectares": 0.695
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 53.9,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-6436",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Sunil Dharamveer Sharma under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083416",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Oragadam",
+    "khata_number": "KH-148",
+    "survey_number": "75/1A",
+    "sub_division": "1A",
+    "owner_name": "Harish Chandra Mishra",
+    "father_spouse_name": "Late Chandra Mishra",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Harish Chandra Mishra",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.79 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "7943 sq.m (1.963 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 7943,
+      "acres": 1.963,
+      "hectares": 0.794
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 106.52,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-2742",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Harish Chandra Mishra under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200862",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Bannerghatta",
+    "khata_number": "KH-344",
+    "survey_number": "50/1A",
+    "sub_division": "1A",
+    "owner_name": "Rakesh Hanumant Shinde",
+    "father_spouse_name": "Late Hanumant Shinde",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Rakesh Hanumant Shinde",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.30 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "2999 sq.m (0.741 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 2999,
+      "acres": 0.741,
+      "hectares": 0.3
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 35.55,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-5338",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Rakesh Hanumant Shinde under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016533",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Manimajra",
+    "khata_number": "KH-197",
+    "survey_number": "56/1A",
+    "sub_division": "1A",
+    "owner_name": "Praveen Suresh Bhat",
+    "father_spouse_name": "Late Suresh Bhat",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Praveen Suresh Bhat",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.16 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "1569 sq.m (0.388 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 1569,
+      "acres": 0.388,
+      "hectares": 0.157
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 92.86,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-8748",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Praveen Suresh Bhat under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048777",
+    "record_type": "7/12 & 8A",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "taluka": "Haveli",
+    "village": "Manjri",
+    "khata_number": "KH-847",
+    "survey_number": "49/1",
+    "sub_division": "1",
+    "owner_name": "Santosh Dharmendra Gupta",
+    "father_spouse_name": "Late Dharmendra Gupta",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Santosh Dharmendra Gupta",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.57 Hectares",
+      "unit": "Hectare-Ares-Guntha",
+      "breakdown": "15715 sq.m (3.883 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 15715,
+      "acres": 3.883,
+      "hectares": 1.571
+    },
+    "soil_type": "Medium Black Cotton (Madhyam Kali)",
+    "land_revenue_assessment_inr": 27.77,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2725-2022-1350",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Haveli",
+        "remarks": "Ownership duly recorded in favour of Santosh Dharmendra Gupta under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016599",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Manimajra",
+    "khata_number": "KH-238",
+    "survey_number": "63/1",
+    "sub_division": "1",
+    "owner_name": "Ajay Baburao Suryavanshi",
+    "father_spouse_name": "Late Baburao Suryavanshi",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ajay Baburao Suryavanshi",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.23 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "2265 sq.m (0.56 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 2265,
+      "acres": 0.56,
+      "hectares": 0.227
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 66.91,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-1035",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Ajay Baburao Suryavanshi under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014215",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Sector 34",
+    "khata_number": "KH-431",
+    "survey_number": "61/1A",
+    "sub_division": "1A",
+    "owner_name": "Mahesh Vishnu Deshmukh",
+    "father_spouse_name": "Late Vishnu Deshmukh",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Mahesh Vishnu Deshmukh",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.54 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "5380 sq.m (1.329 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 5380,
+      "acres": 1.329,
+      "hectares": 0.538
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 50.58,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-3284",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Mahesh Vishnu Deshmukh under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083432",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Oragadam",
+    "khata_number": "KH-909",
+    "survey_number": "135/3",
+    "sub_division": "3",
+    "owner_name": "Manoj Kailash Yadav",
+    "father_spouse_name": "Late Kailash Yadav",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Manoj Kailash Yadav",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.74 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "7382 sq.m (1.824 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 7382,
+      "acres": 1.824,
+      "hectares": 0.738
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 95.06,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-6496",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Manoj Kailash Yadav under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083633",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Oragadam",
+    "khata_number": "KH-309",
+    "survey_number": "28/4A",
+    "sub_division": "4A",
+    "owner_name": "Ravi Bhanu Pandey",
+    "father_spouse_name": "Late Bhanu Pandey",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ravi Bhanu Pandey",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.29 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "12882 sq.m (3.183 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 12882,
+      "acres": 3.183,
+      "hectares": 1.288
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 43.43,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-8265",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Ravi Bhanu Pandey under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082749",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Perungalathur",
+    "khata_number": "KH-160",
+    "survey_number": "13/2",
+    "sub_division": "2",
+    "owner_name": "Gurpreet Balwinder Dhillon",
+    "father_spouse_name": "Late Balwinder Dhillon",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Gurpreet Balwinder Dhillon",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.47 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "4731 sq.m (1.169 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 4731,
+      "acres": 1.169,
+      "hectares": 0.473
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 47.34,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-5637",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Gurpreet Balwinder Dhillon under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202937",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Begur",
+    "khata_number": "KH-736",
+    "survey_number": "85/2",
+    "sub_division": "2",
+    "owner_name": "Harish Chandra Mishra",
+    "father_spouse_name": "Late Chandra Mishra",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Harish Chandra Mishra",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.29 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "2878 sq.m (0.711 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 2878,
+      "acres": 0.711,
+      "hectares": 0.288
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 29.22,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-8941",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Harish Chandra Mishra under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201879",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Anekal",
+    "khata_number": "KH-977",
+    "survey_number": "158/1A",
+    "sub_division": "1A",
+    "owner_name": "Sanjay Dattatraya Jadhav",
+    "father_spouse_name": "Late Dattatraya Jadhav",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Sanjay Dattatraya Jadhav",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.68 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "6811 sq.m (1.683 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 6811,
+      "acres": 1.683,
+      "hectares": 0.681
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 70.46,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-6223",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Sanjay Dattatraya Jadhav under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202946",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Begur",
+    "khata_number": "KH-232",
+    "survey_number": "186/1",
+    "sub_division": "1",
+    "owner_name": "Ganesh Manjunath Hegde",
+    "father_spouse_name": "Late Manjunath Hegde",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ganesh Manjunath Hegde",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.17 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "11735 sq.m (2.9 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 11735,
+      "acres": 2.9,
+      "hectares": 1.173
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 99.97,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-1457",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Ganesh Manjunath Hegde under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115793",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Chinhat",
+    "khata_number": "KH-515",
+    "survey_number": "61/4A",
+    "sub_division": "4A",
+    "owner_name": "Santosh Dharmendra Gupta",
+    "father_spouse_name": "Late Dharmendra Gupta",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Santosh Dharmendra Gupta",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.10 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "11020 sq.m (2.723 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 11020,
+      "acres": 2.723,
+      "hectares": 1.102
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 65.83,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-1847",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Santosh Dharmendra Gupta under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048913",
+    "record_type": "7/12 & 8A",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "taluka": "Haveli",
+    "village": "Manjri",
+    "khata_number": "KH-826",
+    "survey_number": "168/1A",
+    "sub_division": "1A",
+    "owner_name": "Nitin Bapurao Chavan",
+    "father_spouse_name": "Late Bapurao Chavan",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Nitin Bapurao Chavan",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.17 Hectares",
+      "unit": "Hectare-Ares-Guntha",
+      "breakdown": "11650 sq.m (2.879 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 11650,
+      "acres": 2.879,
+      "hectares": 1.165
+    },
+    "soil_type": "Medium Black Cotton (Madhyam Kali)",
+    "land_revenue_assessment_inr": 76.29,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2725-2022-1460",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Haveli",
+        "remarks": "Ownership duly recorded in favour of Nitin Bapurao Chavan under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117499",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Malihabad",
+    "khata_number": "KH-237",
+    "survey_number": "196/1A",
+    "sub_division": "1A",
+    "owner_name": "Gurpreet Balwinder Dhillon",
+    "father_spouse_name": "Late Balwinder Dhillon",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Gurpreet Balwinder Dhillon",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.34 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "13415 sq.m (3.315 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 13415,
+      "acres": 3.315,
+      "hectares": 1.341
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 105.72,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-5984",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Gurpreet Balwinder Dhillon under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082553",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Perungalathur",
+    "khata_number": "KH-745",
+    "survey_number": "16/5",
+    "sub_division": "5",
+    "owner_name": "Ajay Baburao Suryavanshi",
+    "father_spouse_name": "Late Baburao Suryavanshi",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ajay Baburao Suryavanshi",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.20 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "2033 sq.m (0.502 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 2033,
+      "acres": 0.502,
+      "hectares": 0.203
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 95.53,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-8245",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Ajay Baburao Suryavanshi under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048474",
+    "record_type": "7/12 & 8A",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "taluka": "Haveli",
+    "village": "Manjri",
+    "khata_number": "KH-398",
+    "survey_number": "76/2B",
+    "sub_division": "2B",
+    "owner_name": "Harish Chandra Mishra",
+    "father_spouse_name": "Late Chandra Mishra",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Harish Chandra Mishra",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.33 Hectares",
+      "unit": "Hectare-Ares-Guntha",
+      "breakdown": "13330 sq.m (3.294 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 13330,
+      "acres": 3.294,
+      "hectares": 1.333
+    },
+    "soil_type": "Medium Black Cotton (Madhyam Kali)",
+    "land_revenue_assessment_inr": 118.69,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2725-2022-4055",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Haveli",
+        "remarks": "Ownership duly recorded in favour of Harish Chandra Mishra under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201758",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Anekal",
+    "khata_number": "KH-913",
+    "survey_number": "27/3",
+    "sub_division": "3",
+    "owner_name": "Vikas Pandurang More",
+    "father_spouse_name": "Late Pandurang More",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Vikas Pandurang More",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.11 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "11084 sq.m (2.739 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 11084,
+      "acres": 2.739,
+      "hectares": 1.108
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 46.93,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-3494",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Vikas Pandurang More under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012548",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Sector 17",
+    "khata_number": "KH-534",
+    "survey_number": "105/1",
+    "sub_division": "1",
+    "owner_name": "Gurpreet Balwinder Dhillon",
+    "father_spouse_name": "Late Balwinder Dhillon",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Gurpreet Balwinder Dhillon",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.74 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "7386 sq.m (1.825 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 7386,
+      "acres": 1.825,
+      "hectares": 0.739
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 95.98,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-4649",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Gurpreet Balwinder Dhillon under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114496",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Jankipuram",
+    "khata_number": "KH-148",
+    "survey_number": "108/5",
+    "sub_division": "5",
+    "owner_name": "Nitin Bapurao Chavan",
+    "father_spouse_name": "Late Bapurao Chavan",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Nitin Bapurao Chavan",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.16 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "1577 sq.m (0.39 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 1577,
+      "acres": 0.39,
+      "hectares": 0.158
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 119.49,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-1362",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Nitin Bapurao Chavan under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200212",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Bannerghatta",
+    "khata_number": "KH-225",
+    "survey_number": "78/1",
+    "sub_division": "1",
+    "owner_name": "Mahesh Vishnu Deshmukh",
+    "father_spouse_name": "Late Vishnu Deshmukh",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Mahesh Vishnu Deshmukh",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.18 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "11792 sq.m (2.914 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 11792,
+      "acres": 2.914,
+      "hectares": 1.179
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 41.36,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-3335",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Mahesh Vishnu Deshmukh under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014927",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Sector 34",
+    "khata_number": "KH-802",
+    "survey_number": "100/3",
+    "sub_division": "3",
+    "owner_name": "Ajay Baburao Suryavanshi",
+    "father_spouse_name": "Late Baburao Suryavanshi",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ajay Baburao Suryavanshi",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.86 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "8564 sq.m (2.116 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 8564,
+      "acres": 2.116,
+      "hectares": 0.856
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 115.34,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-6537",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Ajay Baburao Suryavanshi under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083203",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Oragadam",
+    "khata_number": "KH-621",
+    "survey_number": "91/4A",
+    "sub_division": "4A",
+    "owner_name": "Ashok Suryakant Verma",
+    "father_spouse_name": "Late Suryakant Verma",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ashok Suryakant Verma",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.42 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "14178 sq.m (3.503 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 14178,
+      "acres": 3.503,
+      "hectares": 1.418
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 80.18,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-2395",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Ashok Suryakant Verma under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117129",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Malihabad",
+    "khata_number": "KH-764",
+    "survey_number": "46/2",
+    "sub_division": "2",
+    "owner_name": "Ashok Suryakant Verma",
+    "father_spouse_name": "Late Suryakant Verma",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ashok Suryakant Verma",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.89 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "8931 sq.m (2.207 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 8931,
+      "acres": 2.207,
+      "hectares": 0.893
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 60.5,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-9981",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Ashok Suryakant Verma under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201618",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Anekal",
+    "khata_number": "KH-291",
+    "survey_number": "57/1",
+    "sub_division": "1",
+    "owner_name": "Pramod Kashinath Pawar",
+    "father_spouse_name": "Late Kashinath Pawar",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Pramod Kashinath Pawar",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.65 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "6502 sq.m (1.607 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 6502,
+      "acres": 1.607,
+      "hectares": 0.65
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 75.62,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-2991",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Pramod Kashinath Pawar under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201416",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Anekal",
+    "khata_number": "KH-902",
+    "survey_number": "179/5",
+    "sub_division": "5",
+    "owner_name": "Ashok Suryakant Verma",
+    "father_spouse_name": "Late Suryakant Verma",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ashok Suryakant Verma",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.07 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "10659 sq.m (2.634 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 10659,
+      "acres": 2.634,
+      "hectares": 1.066
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 119.32,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-4618",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Ashok Suryakant Verma under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050084788",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Tambaram",
+    "khata_number": "KH-121",
+    "survey_number": "131/1",
+    "sub_division": "1",
+    "owner_name": "Ashok Suryakant Verma",
+    "father_spouse_name": "Late Suryakant Verma",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ashok Suryakant Verma",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.45 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "14449 sq.m (3.57 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 14449,
+      "acres": 3.57,
+      "hectares": 1.445
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 84.29,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-8063",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Ashok Suryakant Verma under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014882",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Sector 34",
+    "khata_number": "KH-812",
+    "survey_number": "35/5",
+    "sub_division": "5",
+    "owner_name": "Devendra Pratap Singh",
+    "father_spouse_name": "Late Pratap Singh",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Devendra Pratap Singh",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.34 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "13394 sq.m (3.31 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 13394,
+      "acres": 3.31,
+      "hectares": 1.339
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 115.53,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-6231",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Devendra Pratap Singh under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016583",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Manimajra",
+    "khata_number": "KH-955",
+    "survey_number": "99/4A",
+    "sub_division": "4A",
+    "owner_name": "Harish Chandra Mishra",
+    "father_spouse_name": "Late Chandra Mishra",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Harish Chandra Mishra",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.05 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "10519 sq.m (2.599 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 10519,
+      "acres": 2.599,
+      "hectares": 1.052
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 87.64,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-4417",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Harish Chandra Mishra under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114546",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Jankipuram",
+    "khata_number": "KH-203",
+    "survey_number": "78/1",
+    "sub_division": "1",
+    "owner_name": "Deepak Shankar Bhosale",
+    "father_spouse_name": "Late Shankar Bhosale",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Deepak Shankar Bhosale",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.97 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "9713 sq.m (2.4 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 9713,
+      "acres": 2.4,
+      "hectares": 0.971
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 101.11,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-2424",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Deepak Shankar Bhosale under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016976",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Manimajra",
+    "khata_number": "KH-534",
+    "survey_number": "129/5",
+    "sub_division": "5",
+    "owner_name": "Ajay Baburao Suryavanshi",
+    "father_spouse_name": "Late Baburao Suryavanshi",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ajay Baburao Suryavanshi",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.43 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "4319 sq.m (1.067 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 4319,
+      "acres": 1.067,
+      "hectares": 0.432
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 76.61,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-4723",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Ajay Baburao Suryavanshi under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010047398",
+    "record_type": "7/12 & 8A",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "taluka": "Haveli",
+    "village": "Uruli Kanchan",
+    "khata_number": "KH-483",
+    "survey_number": "49/5",
+    "sub_division": "5",
+    "owner_name": "Sunil Dharamveer Sharma",
+    "father_spouse_name": "Late Dharamveer Sharma",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Sunil Dharamveer Sharma",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.82 Hectares",
+      "unit": "Hectare-Ares-Guntha",
+      "breakdown": "8155 sq.m (2.015 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 8155,
+      "acres": 2.015,
+      "hectares": 0.816
+    },
+    "soil_type": "Medium Black Cotton (Madhyam Kali)",
+    "land_revenue_assessment_inr": 32.44,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2725-2022-2442",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Haveli",
+        "remarks": "Ownership duly recorded in favour of Sunil Dharamveer Sharma under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048604",
+    "record_type": "7/12 & 8A",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "taluka": "Haveli",
+    "village": "Manjri",
+    "khata_number": "KH-653",
+    "survey_number": "87/2",
+    "sub_division": "2",
+    "owner_name": "Gurpreet Balwinder Dhillon",
+    "father_spouse_name": "Late Balwinder Dhillon",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Gurpreet Balwinder Dhillon",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.52 Hectares",
+      "unit": "Hectare-Ares-Guntha",
+      "breakdown": "5233 sq.m (1.293 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 5233,
+      "acres": 1.293,
+      "hectares": 0.523
+    },
+    "soil_type": "Medium Black Cotton (Madhyam Kali)",
+    "land_revenue_assessment_inr": 106.3,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2725-2022-8400",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Haveli",
+        "remarks": "Ownership duly recorded in favour of Gurpreet Balwinder Dhillon under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048406",
+    "record_type": "7/12 & 8A",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "taluka": "Haveli",
+    "village": "Manjri",
+    "khata_number": "KH-912",
+    "survey_number": "99/3",
+    "sub_division": "3",
+    "owner_name": "Praveen Suresh Bhat",
+    "father_spouse_name": "Late Suresh Bhat",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Praveen Suresh Bhat",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.70 Hectares",
+      "unit": "Hectare-Ares-Guntha",
+      "breakdown": "7035 sq.m (1.738 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 7035,
+      "acres": 1.738,
+      "hectares": 0.704
+    },
+    "soil_type": "Medium Black Cotton (Madhyam Kali)",
+    "land_revenue_assessment_inr": 85.34,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2725-2022-9022",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Haveli",
+        "remarks": "Ownership duly recorded in favour of Praveen Suresh Bhat under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202939",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Begur",
+    "khata_number": "KH-787",
+    "survey_number": "111/4A",
+    "sub_division": "4A",
+    "owner_name": "Nitin Bapurao Chavan",
+    "father_spouse_name": "Late Bapurao Chavan",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Nitin Bapurao Chavan",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.74 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "7429 sq.m (1.836 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 7429,
+      "acres": 1.836,
+      "hectares": 0.743
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 95.86,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-9371",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Nitin Bapurao Chavan under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083415",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Oragadam",
+    "khata_number": "KH-967",
+    "survey_number": "17/1",
+    "sub_division": "1",
+    "owner_name": "Karthik Subramanian Natarajan",
+    "father_spouse_name": "Late Subramanian Natarajan",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Karthik Subramanian Natarajan",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.60 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "6046 sq.m (1.494 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 6046,
+      "acres": 1.494,
+      "hectares": 0.605
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 72.58,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-4923",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Karthik Subramanian Natarajan under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050084929",
+    "record_type": "Patta & Chitta (e-Patta)",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "taluka": "Sriperumbudur",
+    "village": "Tambaram",
+    "khata_number": "KH-390",
+    "survey_number": "196/1",
+    "sub_division": "1",
+    "owner_name": "Sachin Ramchandra Gaikwad",
+    "father_spouse_name": "Late Ramchandra Gaikwad",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Sachin Ramchandra Gaikwad",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.19 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "1874 sq.m (0.463 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 1874,
+      "acres": 0.463,
+      "hectares": 0.187
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 35.7,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-3301-2022-3324",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sriperumbudur",
+        "remarks": "Ownership duly recorded in favour of Sachin Ramchandra Gaikwad under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014672",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Sector 34",
+    "khata_number": "KH-251",
+    "survey_number": "111/4A",
+    "sub_division": "4A",
+    "owner_name": "Ganesh Manjunath Hegde",
+    "father_spouse_name": "Late Manjunath Hegde",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ganesh Manjunath Hegde",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.39 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "3860 sq.m (0.954 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 3860,
+      "acres": 0.954,
+      "hectares": 0.386
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 32.46,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-9153",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Ganesh Manjunath Hegde under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010046209",
+    "record_type": "7/12 & 8A",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "taluka": "Haveli",
+    "village": "Kesnand",
+    "khata_number": "KH-769",
+    "survey_number": "138/5",
+    "sub_division": "5",
+    "owner_name": "Arun Gopal Kulkarni",
+    "father_spouse_name": "Late Gopal Kulkarni",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Arun Gopal Kulkarni",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.81 Hectares",
+      "unit": "Hectare-Ares-Guntha",
+      "breakdown": "8154 sq.m (2.015 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 8154,
+      "acres": 2.015,
+      "hectares": 0.815
+    },
+    "soil_type": "Medium Black Cotton (Madhyam Kali)",
+    "land_revenue_assessment_inr": 114.95,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2725-2022-3009",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Haveli",
+        "remarks": "Ownership duly recorded in favour of Arun Gopal Kulkarni under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012931",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Sector 17",
+    "khata_number": "KH-315",
+    "survey_number": "117/1",
+    "sub_division": "1",
+    "owner_name": "Pramod Kashinath Pawar",
+    "father_spouse_name": "Late Kashinath Pawar",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Pramod Kashinath Pawar",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.13 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "1281 sq.m (0.317 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 1281,
+      "acres": 0.317,
+      "hectares": 0.128
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 112.58,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-1895",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Pramod Kashinath Pawar under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012908",
+    "record_type": "PR Card (Property Register Card)",
+    "state": "Chandigarh",
+    "district": "Chandigarh",
+    "taluka": "Chandigarh",
+    "village": "Sector 17",
+    "khata_number": "KH-292",
+    "survey_number": "30/4A",
+    "sub_division": "4A",
+    "owner_name": "Brijesh Ramakant Tiwari",
+    "father_spouse_name": "Late Ramakant Tiwari",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Brijesh Ramakant Tiwari",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.54 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "15436 sq.m (3.814 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 15436,
+      "acres": 3.814,
+      "hectares": 1.544
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 85.05,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0401-2022-4315",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Chandigarh",
+        "remarks": "Ownership duly recorded in favour of Brijesh Ramakant Tiwari under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202997",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Begur",
+    "khata_number": "KH-528",
+    "survey_number": "54/5",
+    "sub_division": "5",
+    "owner_name": "Vikas Pandurang More",
+    "father_spouse_name": "Late Pandurang More",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Vikas Pandurang More",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.09 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "10871 sq.m (2.686 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 10871,
+      "acres": 2.686,
+      "hectares": 1.087
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 92.41,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-9671",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Vikas Pandurang More under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200375",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Bannerghatta",
+    "khata_number": "KH-365",
+    "survey_number": "56/5",
+    "sub_division": "5",
+    "owner_name": "Anand Venkatesh Iyer",
+    "father_spouse_name": "Late Venkatesh Iyer",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Anand Venkatesh Iyer",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.48 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "14822 sq.m (3.663 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 14822,
+      "acres": 3.663,
+      "hectares": 1.482
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 34.92,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-7321",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Anand Venkatesh Iyer under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202848",
+    "record_type": "Bhoomi RTC (Pahani)",
+    "state": "Karnataka",
+    "district": "Bengaluru Urban",
+    "taluka": "Bengaluru South",
+    "village": "Begur",
+    "khata_number": "KH-440",
+    "survey_number": "182/1A",
+    "sub_division": "1A",
+    "owner_name": "Praveen Suresh Bhat",
+    "father_spouse_name": "Late Suresh Bhat",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Praveen Suresh Bhat",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.11 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "11079 sq.m (2.738 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 11079,
+      "acres": 2.738,
+      "hectares": 1.108
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 97.76,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2918-2022-7728",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Bengaluru South",
+        "remarks": "Ownership duly recorded in favour of Praveen Suresh Bhat under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114739",
+    "record_type": "Khatauni (Khasra & Khatauni)",
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "taluka": "Sarojini Nagar",
+    "village": "Jankipuram",
+    "khata_number": "KH-196",
+    "survey_number": "27/5",
+    "sub_division": "5",
+    "owner_name": "Manpreet Jaswant Kaur",
+    "father_spouse_name": "Late Jaswant Kaur",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Manpreet Jaswant Kaur",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "0.66 Hectares",
+      "unit": "Acres-Cents",
+      "breakdown": "6632 sq.m (1.639 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 6632,
+      "acres": 1.639,
+      "hectares": 0.663
+    },
+    "soil_type": "Alluvial Loam",
+    "land_revenue_assessment_inr": 110.52,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-0903-2022-7940",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Sarojini Nagar",
+        "remarks": "Ownership duly recorded in favour of Manpreet Jaswant Kaur under Section 149 MLRC."
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010045431",
+    "record_type": "7/12 & 8A",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "taluka": "Haveli",
+    "village": "Wagholi",
+    "khata_number": "KH-619",
+    "survey_number": "90/1A",
+    "sub_division": "1A",
+    "owner_name": "Ganesh Manjunath Hegde",
+    "father_spouse_name": "Late Manjunath Hegde",
+    "occupant_class": "Class 1 (Bhogwata-1, Unrestricted Ownership)",
+    "co_owners": [
+      {
+        "name": "Ganesh Manjunath Hegde",
+        "share": "100%",
+        "relation": "Self"
+      }
+    ],
+    "native_area": {
+      "raw": "1.42 Hectares",
+      "unit": "Hectare-Ares-Guntha",
+      "breakdown": "14223 sq.m (3.515 Acres)"
+    },
+    "normalized_area": {
+      "sqm": 14223,
+      "acres": 3.515,
+      "hectares": 1.422
+    },
+    "soil_type": "Medium Black Cotton (Madhyam Kali)",
+    "land_revenue_assessment_inr": 31.46,
+    "mutation_history": [
+      {
+        "mutation_id": "MUT-2725-2022-2393",
+        "date": "2022-06-18",
+        "type": "Registered Sale Deed Transfer",
+        "status": "Certified & Recorded (Amal Zaala)",
+        "officer": "Tahsildar Haveli",
+        "remarks": "Ownership duly recorded in favour of Ganesh Manjunath Hegde under Section 149 MLRC."
+      }
+    ]
+  }
+]

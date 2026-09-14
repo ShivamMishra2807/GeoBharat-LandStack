@@ -1,0 +1,2555 @@
+[
+  {
+    "ulpin": "27250010045001",
+    "zone_type": "Residential (R-1)",
+    "planning_authority": "PMRDA (Pune Metropolitan Region Development Authority)",
+    "master_plan_name": "PMRDA Comprehensive Development Plan 2041",
+    "proposed_land_use": "Low to Medium Density Housing / Plotted Development",
+    "permissible_fsi": 1.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 12.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "PMRDA/BP/2022/WAG/091",
+        "type": "Plotted Layout Sanction",
+        "sanction_date": "2022-04-14",
+        "status": "Approved",
+        "valid_until": "2026-04-13",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 4500,
+        "architect": "Deshmukh & Associates, Pune"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010045002",
+    "zone_type": "Commercial (C-2)",
+    "planning_authority": "PMRDA (Pune Metropolitan Region Development Authority)",
+    "master_plan_name": "PMRDA Comprehensive Development Plan 2041",
+    "proposed_land_use": "Commercial Retail & Office Complex",
+    "permissible_fsi": 2.2,
+    "premium_fsi_eligible": "Up to 0.80 TDR",
+    "road_width_m": 24.0,
+    "max_ground_coverage_pct": 55,
+    "building_permissions": [
+      {
+        "permission_no": "PMRDA/BP/2024/COMM/014",
+        "type": "Commercial Mall & Multiplex Sanction",
+        "sanction_date": "2024-03-01",
+        "status": "In Scrutiny / Auto-DCR Verification",
+        "valid_until": "Pending Approval",
+        "permitted_height_m": 32.0,
+        "total_built_sqm": 14200,
+        "architect": "Sthapatya Urban Planners"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114003",
+    "zone_type": "Agricultural (Prime Crop)",
+    "planning_authority": "Lucknow Development Authority (LDA) / Zila Panchayat",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Intensive Agriculture & Horticultural Green Belt",
+    "permissible_fsi": 0.2,
+    "premium_fsi_eligible": "Not Permitted in Ag Zone",
+    "road_width_m": 6.0,
+    "max_ground_coverage_pct": 15,
+    "building_permissions": [
+      {
+        "permission_no": "ZP/LKO/AG/2020/41",
+        "type": "Farm House & Tubewell Pumphouse Sanction",
+        "sanction_date": "2020-11-19",
+        "status": "Approved",
+        "valid_until": "2025-11-18",
+        "permitted_height_m": 6.0,
+        "total_built_sqm": 180,
+        "architect": "Self / Gram Panchayat Standard Drawing"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114004",
+    "zone_type": "Residential (R-2)",
+    "planning_authority": "Lucknow Development Authority (LDA)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Medium Density Suburban Residential",
+    "permissible_fsi": 1.75,
+    "premium_fsi_eligible": "Up to 0.25",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 45,
+    "building_permissions": [
+      {
+        "permission_no": "LDA/BP/2023/SUB/812",
+        "type": "G+3 Residential Apartment",
+        "sanction_date": "2023-05-10",
+        "status": "Suspended Pending Court Litigation",
+        "valid_until": "Stay Order",
+        "permitted_height_m": 12.0,
+        "total_built_sqm": 1850,
+        "architect": "Awadh Vastu Consultants"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082005",
+    "zone_type": "Industrial (Light Engg)",
+    "planning_authority": "Chennai Metropolitan Development Authority (CMDA) / DTCP",
+    "master_plan_name": "CMDA Third Master Plan Corridor 2046",
+    "proposed_land_use": "Electronic Component Manufacturing & Warehousing",
+    "permissible_fsi": 1.5,
+    "premium_fsi_eligible": "Up to 0.50",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 60,
+    "building_permissions": [
+      {
+        "permission_no": "DTCP/KANCHI/IND/2023/55",
+        "type": "Industrial Shed & Administration Block",
+        "sanction_date": "2023-01-20",
+        "status": "Approved",
+        "valid_until": "2028-01-19",
+        "permitted_height_m": 14.0,
+        "total_built_sqm": 2900,
+        "architect": "Southern Infra Consultants"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082006",
+    "zone_type": "Commercial (Logistics)",
+    "planning_authority": "DTCP Tamil Nadu",
+    "master_plan_name": "Sriperumbudur Auto-Industrial Corridor Plan",
+    "proposed_land_use": "Freight Logistics & Container Yard",
+    "permissible_fsi": 1.8,
+    "premium_fsi_eligible": "0.30",
+    "road_width_m": 30.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "DTCP/KANCHI/LOG/2021/04",
+        "type": "Logistics Hub & Dispatch Facility",
+        "sanction_date": "2021-08-11",
+        "status": "Approved",
+        "valid_until": "2026-08-10",
+        "permitted_height_m": 16.0,
+        "total_built_sqm": 4100,
+        "architect": "Coromandel Engineering Works"
+      }
+    ]
+  },
+  {
+    "ulpin": "27200040019007",
+    "zone_type": "Commercial (C-1)",
+    "planning_authority": "MMRDA (Mumbai Metropolitan Region Development Authority)",
+    "master_plan_name": "Bandra-Kurla Complex (BKC) Special Planning Authority DP",
+    "proposed_land_use": "Corporate Finance / Commercial Office Suites",
+    "permissible_fsi": 4.0,
+    "premium_fsi_eligible": "Up to 1.50 Premium FSI",
+    "road_width_m": 36.0,
+    "max_ground_coverage_pct": 40,
+    "building_permissions": [
+      {
+        "permission_no": "MMRDA/SPA/BKC/2022/901",
+        "type": "Commercial High-Rise (B+G+12)",
+        "sanction_date": "2022-07-15",
+        "status": "Approved & Occupancy Certificate Issued",
+        "valid_until": "Completed",
+        "permitted_height_m": 45.0,
+        "total_built_sqm": 3800,
+        "architect": "Hafeez Contractor Designs"
+      }
+    ]
+  },
+  {
+    "ulpin": "27200040019008",
+    "zone_type": "Residential (High Rise R-4)",
+    "planning_authority": "Municipal Corporation of Greater Mumbai (MCGM / BMC)",
+    "master_plan_name": "Mumbai Development Plan 2034 (DP 2034)",
+    "proposed_land_use": "Luxury Residential Towers (30+ Storeys)",
+    "permissible_fsi": 4.5,
+    "premium_fsi_eligible": "Redevelopment Regulation 33(7B)",
+    "road_width_m": 27.0,
+    "max_ground_coverage_pct": 35,
+    "building_permissions": [
+      {
+        "permission_no": "BMC/EB/2023/H-EAST/342",
+        "type": "High-Rise Building Proposal (2B+G+28)",
+        "sanction_date": "2023-09-04",
+        "status": "Approved (Commencement Certificate Plinth)",
+        "valid_until": "2027-09-03",
+        "permitted_height_m": 96.0,
+        "total_built_sqm": 6800,
+        "architect": "Metropolitan Urbanists LLP"
+      }
+    ]
+  },
+  {
+    "ulpin": "29040030018009",
+    "zone_type": "Eco-sensitive (Lake Buffer)",
+    "planning_authority": "BMRDA / BDA (Bengaluru Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031 (Revised)",
+    "proposed_land_use": "Strict Lake Buffer Zone (No Construction Allowed)",
+    "permissible_fsi": 0.0,
+    "premium_fsi_eligible": "Prohibited (NGT Mandate)",
+    "road_width_m": 4.5,
+    "max_ground_coverage_pct": 0,
+    "building_permissions": [
+      {
+        "permission_no": "BDA/REJ/2022/BUFF/11",
+        "type": "Residential Layout Application",
+        "sanction_date": "2022-03-18",
+        "status": "Rejected by Town Planning Committee",
+        "valid_until": "N/A",
+        "permitted_height_m": 0.0,
+        "total_built_sqm": 0,
+        "architect": "N/A - In Lake Buffer Area"
+      }
+    ]
+  },
+  {
+    "ulpin": "36020010077010",
+    "zone_type": "Commercial (IT/ITES)",
+    "planning_authority": "GHMC / HMDA (Hyderabad Metropolitan Development Authority)",
+    "master_plan_name": "HMDA Metropolitan Development Plan 2031",
+    "proposed_land_use": "IT SEZ / Grade-A Tech Campus",
+    "permissible_fsi": 3.5,
+    "premium_fsi_eligible": "Unlimited FSI under Telangana Building Rules (Go 168)",
+    "road_width_m": 30.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "TS-bPASS/2023/GHMC/SER/0081",
+        "type": "Commercial IT Tower (TS-bPASS Instant Sanction)",
+        "sanction_date": "2023-08-20",
+        "status": "Approved",
+        "valid_until": "2028-08-19",
+        "permitted_height_m": 50.0,
+        "total_built_sqm": 9800,
+        "architect": "Cybercity Architectural Group"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010017011",
+    "zone_type": "Commercial (City Centre C-1)",
+    "planning_authority": "Chandigarh Urban Planning Department / Chief Architect Office",
+    "master_plan_name": "Chandigarh Master Plan 2031 (CMP-2031)",
+    "proposed_land_use": "Central Commercial District (Sector 17 Plaza Precinct)",
+    "permissible_fsi": 2.5,
+    "premium_fsi_eligible": "Heritage Controlled Zone (Facade Norms Applicable)",
+    "road_width_m": 45.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "CH-UT/ARCH/2021/SEC17/004",
+        "type": "Commercial Four-Storey Complex with Basement",
+        "sanction_date": "2021-06-18",
+        "status": "Approved & Heritage Committee Cleared",
+        "valid_until": "Completed (Occupancy Issued)",
+        "permitted_height_m": 16.5,
+        "total_built_sqm": 3100,
+        "architect": "Corbusier Heritage Associates, Chandigarh"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200796",
+    "zone_type": "Commercial (C-2)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Major Commercial Corridor",
+    "permissible_fsi": 2.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 24.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/178",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 17506,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200541",
+    "zone_type": "Residential (R-1)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Low to Medium Density Housing",
+    "permissible_fsi": 1.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 12.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/822",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 3974,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115808",
+    "zone_type": "Commercial (C-1)",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Commercial Retail & Office Complex",
+    "permissible_fsi": 2.0,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/727",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 3049,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083944",
+    "zone_type": "Industrial (I-1)",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "Light & Medium Non-polluting Industry",
+    "permissible_fsi": 1.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/545",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 5300,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114846",
+    "zone_type": "Residential (R-1)",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Low to Medium Density Housing",
+    "permissible_fsi": 1.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 12.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/174",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 4978,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010046554",
+    "zone_type": "Commercial (C-2)",
+    "planning_authority": "PMRDA (Pune Metropolitan Region Development Authority)",
+    "master_plan_name": "PMRDA Comprehensive Development Plan 2041",
+    "proposed_land_use": "Major Commercial Corridor",
+    "permissible_fsi": 2.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 24.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/25/2023/684",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 7236,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115172",
+    "zone_type": "Residential (R-1)",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Low to Medium Density Housing",
+    "permissible_fsi": 1.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 12.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/875",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 5583,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117775",
+    "zone_type": "Agricultural (A-1)",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Agricultural & Allied Activities",
+    "permissible_fsi": 0.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/776",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 2159,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115865",
+    "zone_type": "Commercial (C-1)",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Commercial Retail & Office Complex",
+    "permissible_fsi": 2.0,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/162",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 25388,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114814",
+    "zone_type": "Mixed Use (MU)",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Mixed Commercial-Residential Development",
+    "permissible_fsi": 1.75,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 15.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/243",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 5086,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010046552",
+    "zone_type": "Residential (R-1)",
+    "planning_authority": "PMRDA (Pune Metropolitan Region Development Authority)",
+    "master_plan_name": "PMRDA Comprehensive Development Plan 2041",
+    "proposed_land_use": "Low to Medium Density Housing",
+    "permissible_fsi": 1.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 12.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/25/2023/249",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 3996,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117378",
+    "zone_type": "Commercial (C-1)",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Commercial Retail & Office Complex",
+    "permissible_fsi": 2.0,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/336",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 24888,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117666",
+    "zone_type": "Eco-sensitive",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Green Buffer & Agro-Forestry Zone",
+    "permissible_fsi": 0.1,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/128",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 519,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050084533",
+    "zone_type": "Commercial (C-2)",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "Major Commercial Corridor",
+    "permissible_fsi": 2.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 24.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/944",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 11710,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010045435",
+    "zone_type": "Residential (R-2)",
+    "planning_authority": "PMRDA (Pune Metropolitan Region Development Authority)",
+    "master_plan_name": "PMRDA Comprehensive Development Plan 2041",
+    "proposed_land_use": "High Density Group Housing",
+    "permissible_fsi": 1.8,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/25/2023/766",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 1631,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016771",
+    "zone_type": "Commercial (C-1)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Commercial Retail & Office Complex",
+    "permissible_fsi": 2.0,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/329",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 20408,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117408",
+    "zone_type": "Commercial (C-2)",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Major Commercial Corridor",
+    "permissible_fsi": 2.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 24.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/741",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 29408,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082726",
+    "zone_type": "Industrial (I-1)",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "Light & Medium Non-polluting Industry",
+    "permissible_fsi": 1.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/523",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 10294,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117392",
+    "zone_type": "Eco-sensitive",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Green Buffer & Agro-Forestry Zone",
+    "permissible_fsi": 0.1,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/104",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 374,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083438",
+    "zone_type": "Eco-sensitive",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "Green Buffer & Agro-Forestry Zone",
+    "permissible_fsi": 0.1,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/478",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 320,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115952",
+    "zone_type": "Mixed Use (MU)",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Mixed Commercial-Residential Development",
+    "permissible_fsi": 1.75,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 15.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/475",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 8152,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016889",
+    "zone_type": "Residential (R-2)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "High Density Group Housing",
+    "permissible_fsi": 1.8,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/958",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 6436,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115771",
+    "zone_type": "Commercial (C-1)",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Commercial Retail & Office Complex",
+    "permissible_fsi": 2.0,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/366",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 9321,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010047902",
+    "zone_type": "Industrial (I-1)",
+    "planning_authority": "PMRDA (Pune Metropolitan Region Development Authority)",
+    "master_plan_name": "PMRDA Comprehensive Development Plan 2041",
+    "proposed_land_use": "Light & Medium Non-polluting Industry",
+    "permissible_fsi": 1.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/25/2023/146",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 7103,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010045286",
+    "zone_type": "Commercial (C-2)",
+    "planning_authority": "PMRDA (Pune Metropolitan Region Development Authority)",
+    "master_plan_name": "PMRDA Comprehensive Development Plan 2041",
+    "proposed_land_use": "Major Commercial Corridor",
+    "permissible_fsi": 2.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 24.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/25/2023/142",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 15752,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050084852",
+    "zone_type": "Residential (R-1)",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "Low to Medium Density Housing",
+    "permissible_fsi": 1.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 12.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/287",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 17839,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050084234",
+    "zone_type": "Mixed Use (MU)",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "Mixed Commercial-Residential Development",
+    "permissible_fsi": 1.75,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 15.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/621",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 7109,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012401",
+    "zone_type": "Commercial (C-2)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Major Commercial Corridor",
+    "permissible_fsi": 2.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 24.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/402",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 19500,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012219",
+    "zone_type": "Industrial (I-1)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Light & Medium Non-polluting Industry",
+    "permissible_fsi": 1.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/389",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 12893,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117539",
+    "zone_type": "Eco-sensitive",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Green Buffer & Agro-Forestry Zone",
+    "permissible_fsi": 0.1,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/603",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 977,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048192",
+    "zone_type": "Agricultural (A-1)",
+    "planning_authority": "PMRDA (Pune Metropolitan Region Development Authority)",
+    "master_plan_name": "PMRDA Comprehensive Development Plan 2041",
+    "proposed_land_use": "Agricultural & Allied Activities",
+    "permissible_fsi": 0.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/25/2023/793",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 1928,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012168",
+    "zone_type": "Residential (R-1)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Low to Medium Density Housing",
+    "permissible_fsi": 1.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 12.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/816",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 10082,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082385",
+    "zone_type": "Residential (R-2)",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "High Density Group Housing",
+    "permissible_fsi": 1.8,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/975",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 10019,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201344",
+    "zone_type": "Residential (R-1)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Low to Medium Density Housing",
+    "permissible_fsi": 1.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 12.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/351",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 6266,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016541",
+    "zone_type": "Mixed Use (MU)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Mixed Commercial-Residential Development",
+    "permissible_fsi": 1.75,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 15.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/401",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 8981,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201239",
+    "zone_type": "Agricultural (A-1)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Agricultural & Allied Activities",
+    "permissible_fsi": 0.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/292",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 1629,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202928",
+    "zone_type": "Mixed Use (MU)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Mixed Commercial-Residential Development",
+    "permissible_fsi": 1.75,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 15.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/627",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 11762,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200497",
+    "zone_type": "Mixed Use (MU)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Mixed Commercial-Residential Development",
+    "permissible_fsi": 1.75,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 15.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/412",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 6615,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202959",
+    "zone_type": "Eco-sensitive",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Green Buffer & Agro-Forestry Zone",
+    "permissible_fsi": 0.1,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/170",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 597,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010046901",
+    "zone_type": "Eco-sensitive",
+    "planning_authority": "PMRDA (Pune Metropolitan Region Development Authority)",
+    "master_plan_name": "PMRDA Comprehensive Development Plan 2041",
+    "proposed_land_use": "Green Buffer & Agro-Forestry Zone",
+    "permissible_fsi": 0.1,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/25/2023/513",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 502,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014167",
+    "zone_type": "Industrial (I-1)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Light & Medium Non-polluting Industry",
+    "permissible_fsi": 1.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/259",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 8360,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016717",
+    "zone_type": "Residential (R-2)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "High Density Group Housing",
+    "permissible_fsi": 1.8,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/572",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 17154,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014837",
+    "zone_type": "Industrial (I-1)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Light & Medium Non-polluting Industry",
+    "permissible_fsi": 1.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/945",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 3255,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201257",
+    "zone_type": "Residential (R-2)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "High Density Group Housing",
+    "permissible_fsi": 1.8,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/119",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 2990,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012674",
+    "zone_type": "Commercial (C-1)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Commercial Retail & Office Complex",
+    "permissible_fsi": 2.0,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/763",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 24670,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083176",
+    "zone_type": "Mixed Use (MU)",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "Mixed Commercial-Residential Development",
+    "permissible_fsi": 1.75,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 15.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/782",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 18456,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083471",
+    "zone_type": "Residential (R-2)",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "High Density Group Housing",
+    "permissible_fsi": 1.8,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/831",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 20011,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117665",
+    "zone_type": "Eco-sensitive",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Green Buffer & Agro-Forestry Zone",
+    "permissible_fsi": 0.1,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/683",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 1261,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114394",
+    "zone_type": "Mixed Use (MU)",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Mixed Commercial-Residential Development",
+    "permissible_fsi": 1.75,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 15.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/227",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 14261,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014304",
+    "zone_type": "Commercial (C-2)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Major Commercial Corridor",
+    "permissible_fsi": 2.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 24.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/262",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 18074,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114281",
+    "zone_type": "Residential (R-1)",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Low to Medium Density Housing",
+    "permissible_fsi": 1.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 12.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/919",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 5694,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202464",
+    "zone_type": "Commercial (C-1)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Commercial Retail & Office Complex",
+    "permissible_fsi": 2.0,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/493",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 6844,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016406",
+    "zone_type": "Agricultural (A-1)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Agricultural & Allied Activities",
+    "permissible_fsi": 0.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/678",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 1660,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012201",
+    "zone_type": "Agricultural (A-1)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Agricultural & Allied Activities",
+    "permissible_fsi": 0.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/365",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 1112,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083416",
+    "zone_type": "Industrial (I-1)",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "Light & Medium Non-polluting Industry",
+    "permissible_fsi": 1.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/119",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 7625,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200862",
+    "zone_type": "Mixed Use (MU)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Mixed Commercial-Residential Development",
+    "permissible_fsi": 1.75,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 15.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/526",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 4198,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016533",
+    "zone_type": "Residential (R-2)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "High Density Group Housing",
+    "permissible_fsi": 1.8,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/142",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 2259,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048777",
+    "zone_type": "Residential (R-1)",
+    "planning_authority": "PMRDA (Pune Metropolitan Region Development Authority)",
+    "master_plan_name": "PMRDA Comprehensive Development Plan 2041",
+    "proposed_land_use": "Low to Medium Density Housing",
+    "permissible_fsi": 1.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 12.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/25/2023/228",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 18858,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016599",
+    "zone_type": "Commercial (C-1)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Commercial Retail & Office Complex",
+    "permissible_fsi": 2.0,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/676",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 3624,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014215",
+    "zone_type": "Agricultural (A-1)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Agricultural & Allied Activities",
+    "permissible_fsi": 0.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/879",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 860,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083432",
+    "zone_type": "Commercial (C-2)",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "Major Commercial Corridor",
+    "permissible_fsi": 2.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 24.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/802",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 14764,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083633",
+    "zone_type": "Residential (R-1)",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "Low to Medium Density Housing",
+    "permissible_fsi": 1.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 12.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/252",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 15458,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082749",
+    "zone_type": "Commercial (C-1)",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "Commercial Retail & Office Complex",
+    "permissible_fsi": 2.0,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/223",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 7569,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202937",
+    "zone_type": "Commercial (C-1)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Commercial Retail & Office Complex",
+    "permissible_fsi": 2.0,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/378",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 4604,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201879",
+    "zone_type": "Industrial (I-1)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Light & Medium Non-polluting Industry",
+    "permissible_fsi": 1.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/469",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 6538,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202946",
+    "zone_type": "Eco-sensitive",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Green Buffer & Agro-Forestry Zone",
+    "permissible_fsi": 0.1,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/311",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 938,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115793",
+    "zone_type": "Eco-sensitive",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Green Buffer & Agro-Forestry Zone",
+    "permissible_fsi": 0.1,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/188",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 881,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048913",
+    "zone_type": "Eco-sensitive",
+    "planning_authority": "PMRDA (Pune Metropolitan Region Development Authority)",
+    "master_plan_name": "PMRDA Comprehensive Development Plan 2041",
+    "proposed_land_use": "Green Buffer & Agro-Forestry Zone",
+    "permissible_fsi": 0.1,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/25/2023/189",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 932,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117499",
+    "zone_type": "Commercial (C-1)",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Commercial Retail & Office Complex",
+    "permissible_fsi": 2.0,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/699",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 21464,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082553",
+    "zone_type": "Agricultural (A-1)",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "Agricultural & Allied Activities",
+    "permissible_fsi": 0.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/325",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 325,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048474",
+    "zone_type": "Commercial (C-2)",
+    "planning_authority": "PMRDA (Pune Metropolitan Region Development Authority)",
+    "master_plan_name": "PMRDA Comprehensive Development Plan 2041",
+    "proposed_land_use": "Major Commercial Corridor",
+    "permissible_fsi": 2.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 24.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/25/2023/936",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 26660,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201758",
+    "zone_type": "Residential (R-1)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Low to Medium Density Housing",
+    "permissible_fsi": 1.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 12.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/156",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 13300,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012548",
+    "zone_type": "Industrial (I-1)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Light & Medium Non-polluting Industry",
+    "permissible_fsi": 1.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/464",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 7090,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114496",
+    "zone_type": "Agricultural (A-1)",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Agricultural & Allied Activities",
+    "permissible_fsi": 0.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/744",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 252,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200212",
+    "zone_type": "Commercial (C-1)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Commercial Retail & Office Complex",
+    "permissible_fsi": 2.0,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/889",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 18867,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014927",
+    "zone_type": "Industrial (I-1)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Light & Medium Non-polluting Industry",
+    "permissible_fsi": 1.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/493",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 8221,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083203",
+    "zone_type": "Mixed Use (MU)",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "Mixed Commercial-Residential Development",
+    "permissible_fsi": 1.75,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 15.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/234",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 19849,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117129",
+    "zone_type": "Industrial (I-1)",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Light & Medium Non-polluting Industry",
+    "permissible_fsi": 1.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/335",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 8573,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201618",
+    "zone_type": "Industrial (I-1)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Light & Medium Non-polluting Industry",
+    "permissible_fsi": 1.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/935",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 6241,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201416",
+    "zone_type": "Residential (R-1)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Low to Medium Density Housing",
+    "permissible_fsi": 1.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 12.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/532",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 12790,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050084788",
+    "zone_type": "Eco-sensitive",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "Green Buffer & Agro-Forestry Zone",
+    "permissible_fsi": 0.1,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/356",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 1155,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014882",
+    "zone_type": "Commercial (C-1)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Commercial Retail & Office Complex",
+    "permissible_fsi": 2.0,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/248",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 21430,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016583",
+    "zone_type": "Residential (R-1)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Low to Medium Density Housing",
+    "permissible_fsi": 1.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 12.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/299",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 12622,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114546",
+    "zone_type": "Commercial (C-1)",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "Commercial Retail & Office Complex",
+    "permissible_fsi": 2.0,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/142",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 15540,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016976",
+    "zone_type": "Commercial (C-2)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Major Commercial Corridor",
+    "permissible_fsi": 2.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 24.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/318",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 8638,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010047398",
+    "zone_type": "Agricultural (A-1)",
+    "planning_authority": "PMRDA (Pune Metropolitan Region Development Authority)",
+    "master_plan_name": "PMRDA Comprehensive Development Plan 2041",
+    "proposed_land_use": "Agricultural & Allied Activities",
+    "permissible_fsi": 0.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/25/2023/422",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 1304,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048604",
+    "zone_type": "Commercial (C-2)",
+    "planning_authority": "PMRDA (Pune Metropolitan Region Development Authority)",
+    "master_plan_name": "PMRDA Comprehensive Development Plan 2041",
+    "proposed_land_use": "Major Commercial Corridor",
+    "permissible_fsi": 2.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 24.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/25/2023/450",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 10466,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048406",
+    "zone_type": "Mixed Use (MU)",
+    "planning_authority": "PMRDA (Pune Metropolitan Region Development Authority)",
+    "master_plan_name": "PMRDA Comprehensive Development Plan 2041",
+    "proposed_land_use": "Mixed Commercial-Residential Development",
+    "permissible_fsi": 1.75,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 15.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/25/2023/944",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 9849,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202939",
+    "zone_type": "Commercial (C-1)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Commercial Retail & Office Complex",
+    "permissible_fsi": 2.0,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/474",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 11886,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083415",
+    "zone_type": "Commercial (C-1)",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "Commercial Retail & Office Complex",
+    "permissible_fsi": 2.0,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/632",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 9673,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050084929",
+    "zone_type": "Agricultural (A-1)",
+    "planning_authority": "CMDA (Chennai Metropolitan Development Authority)",
+    "master_plan_name": "Third Master Plan for Chennai Metropolitan Area 2046",
+    "proposed_land_use": "Agricultural & Allied Activities",
+    "permissible_fsi": 0.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/155",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 299,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014672",
+    "zone_type": "Residential (R-1)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Low to Medium Density Housing",
+    "permissible_fsi": 1.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 12.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/814",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 4632,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010046209",
+    "zone_type": "Industrial (I-1)",
+    "planning_authority": "PMRDA (Pune Metropolitan Region Development Authority)",
+    "master_plan_name": "PMRDA Comprehensive Development Plan 2041",
+    "proposed_land_use": "Light & Medium Non-polluting Industry",
+    "permissible_fsi": 1.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/25/2023/690",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 7827,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012931",
+    "zone_type": "Mixed Use (MU)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Mixed Commercial-Residential Development",
+    "permissible_fsi": 1.75,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 15.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/677",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 1793,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012908",
+    "zone_type": "Agricultural (A-1)",
+    "planning_authority": "Chandigarh Urban Planning Department",
+    "master_plan_name": "Chandigarh Master Plan 2031",
+    "proposed_land_use": "Agricultural & Allied Activities",
+    "permissible_fsi": 0.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/01/2023/619",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 2469,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202997",
+    "zone_type": "Eco-sensitive",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Green Buffer & Agro-Forestry Zone",
+    "permissible_fsi": 0.1,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 9.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/163",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 869,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200375",
+    "zone_type": "Industrial (I-1)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Light & Medium Non-polluting Industry",
+    "permissible_fsi": 1.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/103",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 14229,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202848",
+    "zone_type": "Residential (R-1)",
+    "planning_authority": "BMRDA (Bengaluru Metropolitan Region Development Authority)",
+    "master_plan_name": "Bengaluru Master Plan 2031",
+    "proposed_land_use": "Low to Medium Density Housing",
+    "permissible_fsi": 1.5,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 12.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/18/2023/443",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 13294,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114739",
+    "zone_type": "Residential (R-2)",
+    "planning_authority": "LDA (Lucknow Development Authority)",
+    "master_plan_name": "Lucknow Master Plan 2031",
+    "proposed_land_use": "High Density Group Housing",
+    "permissible_fsi": 1.8,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/03/2023/151",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 9550,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010045431",
+    "zone_type": "Industrial (I-1)",
+    "planning_authority": "PMRDA (Pune Metropolitan Region Development Authority)",
+    "master_plan_name": "PMRDA Comprehensive Development Plan 2041",
+    "proposed_land_use": "Light & Medium Non-polluting Industry",
+    "permissible_fsi": 1.2,
+    "premium_fsi_eligible": "Up to 0.50 with TDR loading",
+    "road_width_m": 18.0,
+    "max_ground_coverage_pct": 50,
+    "building_permissions": [
+      {
+        "permission_no": "BP/25/2023/796",
+        "type": "Site Sanction Plan",
+        "sanction_date": "2023-05-10",
+        "status": "Approved",
+        "valid_until": "2027-05-09",
+        "permitted_height_m": 15.0,
+        "total_built_sqm": 13654,
+        "architect": "Registered Town Planning Architect"
+      }
+    ]
+  }
+]

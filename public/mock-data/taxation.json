@@ -1,0 +1,2563 @@
+[
+  {
+    "ulpin": "27250010045001",
+    "property_tax_id": "PMC-PT-2024-WAG-1002",
+    "local_body": "Pune Municipal Corporation (PMC - Haveli Ward)",
+    "rate_zone": "Zone 4 (Peri-Urban Residential)",
+    "assessed_value_inr": 8500000,
+    "annual_demand_inr": 14200,
+    "rebates_applied_inr": 1420,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-05-12",
+    "last_receipt_no": "PMC/REC/2024/099182",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 14200,
+        "paid_inr": 12780,
+        "paid_date": "2024-05-12",
+        "receipt_no": "PMC/REC/2024/099182",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      },
+      {
+        "financial_year": "2023-2024",
+        "demand_inr": 13800,
+        "paid_inr": 13800,
+        "paid_date": "2023-06-04",
+        "receipt_no": "PMC/REC/2023/048819",
+        "mode": "Net Banking (SBI)"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010045002",
+    "property_tax_id": "PMC-PT-2024-WAG-1003",
+    "local_body": "Pune Municipal Corporation (PMC)",
+    "rate_zone": "Zone 2 (Commercial Corridor)",
+    "assessed_value_inr": 19500000,
+    "annual_demand_inr": 68400,
+    "rebates_applied_inr": 0,
+    "tax_due_inr": 68400,
+    "last_paid_date": "2023-08-19",
+    "last_receipt_no": "PMC/REC/2023/184420",
+    "payment_status": "Due for FY 2024-25",
+    "payment_history": [
+      {
+        "financial_year": "2023-2024",
+        "demand_inr": 62000,
+        "paid_inr": 62000,
+        "paid_date": "2023-08-19",
+        "receipt_no": "PMC/REC/2023/184420",
+        "mode": "NEFT"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114003",
+    "property_tax_id": "LKO-ZP-MOHAN-0044",
+    "local_body": "Zila Panchayat Lucknow / Gram Panchayat Mohanlalganj",
+    "rate_zone": "Agricultural Rural Rate",
+    "assessed_value_inr": 4200000,
+    "annual_demand_inr": 1850,
+    "rebates_applied_inr": 0,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-10",
+    "last_receipt_no": "ZP/REC/2024/0018",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 1850,
+        "paid_inr": 1850,
+        "paid_date": "2024-04-10",
+        "receipt_no": "ZP/REC/2024/0018",
+        "mode": "Cash / Panchayat Seva Kendra"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114004",
+    "property_tax_id": "LKO-NN-SAROJ-8810",
+    "local_body": "Lucknow Nagar Nigam (Zone 8)",
+    "rate_zone": "Residential Peri-Urban",
+    "assessed_value_inr": 3100000,
+    "annual_demand_inr": 8400,
+    "rebates_applied_inr": 0,
+    "tax_due_inr": 16800,
+    "last_paid_date": "2022-09-14",
+    "last_receipt_no": "LNN/REC/2022/7710",
+    "payment_status": "Overdue (2 Years Pending)",
+    "payment_history": [
+      {
+        "financial_year": "2022-2023",
+        "demand_inr": 7800,
+        "paid_inr": 7800,
+        "paid_date": "2022-09-14",
+        "receipt_no": "LNN/REC/2022/7710",
+        "mode": "Nagar Nigam Counter"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082005",
+    "property_tax_id": "TN-KANCHI-TP-4281",
+    "local_body": "Sriperumbudur Town Panchayat",
+    "rate_zone": "Special Industrial Class 1",
+    "assessed_value_inr": 8900000,
+    "annual_demand_inr": 24500,
+    "rebates_applied_inr": 1225,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-06-20",
+    "last_receipt_no": "TN-TP/2024/9910",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 24500,
+        "paid_inr": 23275,
+        "paid_date": "2024-06-20",
+        "receipt_no": "TN-TP/2024/9910",
+        "mode": "TNeGA Portal Payment"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082006",
+    "property_tax_id": "TN-KANCHI-TP-5120",
+    "local_body": "Sriperumbudur Town Panchayat",
+    "rate_zone": "Commercial Warehouse Category",
+    "assessed_value_inr": 14500000,
+    "annual_demand_inr": 48000,
+    "rebates_applied_inr": 0,
+    "tax_due_inr": 48000,
+    "last_paid_date": "2023-09-12",
+    "last_receipt_no": "TN-TP/2023/4521",
+    "payment_status": "Due for FY 2024-25",
+    "payment_history": [
+      {
+        "financial_year": "2023-2024",
+        "demand_inr": 45000,
+        "paid_inr": 45000,
+        "paid_date": "2023-09-12",
+        "receipt_no": "TN-TP/2023/4521",
+        "mode": "Online Banking"
+      }
+    ]
+  },
+  {
+    "ulpin": "27200040019007",
+    "property_tax_id": "MCGM-H-EAST-01904",
+    "local_body": "Brihanmumbai Municipal Corporation (BMC / MCGM)",
+    "rate_zone": "Capital Value System (BKC Prime Commercial)",
+    "assessed_value_inr": 72000000,
+    "annual_demand_inr": 285000,
+    "rebates_applied_inr": 14250,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-05-28",
+    "last_receipt_no": "MCGM/REC/2024/500129",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 285000,
+        "paid_inr": 270750,
+        "paid_date": "2024-05-28",
+        "receipt_no": "MCGM/REC/2024/500129",
+        "mode": "MCGM Portal RTGS"
+      }
+    ]
+  },
+  {
+    "ulpin": "27200040019008",
+    "property_tax_id": "MCGM-H-EAST-01905",
+    "local_body": "Brihanmumbai Municipal Corporation (BMC)",
+    "rate_zone": "Capital Value (Under-Construction Luxury)",
+    "assessed_value_inr": 110000000,
+    "annual_demand_inr": 440000,
+    "rebates_applied_inr": 0,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-06-15",
+    "last_receipt_no": "MCGM/REC/2024/662018",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 440000,
+        "paid_inr": 440000,
+        "paid_date": "2024-06-15",
+        "receipt_no": "MCGM/REC/2024/662018",
+        "mode": "Corporate Net Banking"
+      }
+    ]
+  },
+  {
+    "ulpin": "29040030018009",
+    "property_tax_id": "BBMP-SOUTH-18092",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Buffer / Agricultural Exemption Zone",
+    "assessed_value_inr": 5000000,
+    "annual_demand_inr": 5400,
+    "rebates_applied_inr": 0,
+    "tax_due_inr": 10800,
+    "last_paid_date": "2022-10-18",
+    "last_receipt_no": "BBMP/SAS/2022/3391",
+    "payment_status": "Notice Issued (Disputed Assessment)",
+    "payment_history": [
+      {
+        "financial_year": "2022-2023",
+        "demand_inr": 5000,
+        "paid_inr": 5000,
+        "paid_date": "2022-10-18",
+        "receipt_no": "BBMP/SAS/2022/3391",
+        "mode": "BBMP SAS Online"
+      }
+    ]
+  },
+  {
+    "ulpin": "36020010077010",
+    "property_tax_id": "GHMC-SER-77001",
+    "local_body": "Greater Hyderabad Municipal Corporation (GHMC - Serilingampally)",
+    "rate_zone": "High Value IT Corridor Zone",
+    "assessed_value_inr": 38000000,
+    "annual_demand_inr": 152000,
+    "rebates_applied_inr": 7600,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-25",
+    "last_receipt_no": "GHMC/REC/2024/88921",
+    "payment_status": "Fully Paid (Early Bird Rebate Avail)",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 152000,
+        "paid_inr": 144400,
+        "paid_date": "2024-04-25",
+        "receipt_no": "GHMC/REC/2024/88921",
+        "mode": "GHMC Online BillDesk"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010017011",
+    "property_tax_id": "MCC-SEC17-COMM-0091",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Commercial Category-1 (Sector 17 City Centre)",
+    "assessed_value_inr": 85000000,
+    "annual_demand_inr": 340000,
+    "rebates_applied_inr": 34000,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-05-18",
+    "last_receipt_no": "MCC/TAX/2024/771029",
+    "payment_status": "Fully Paid (MCC e-Services)",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 340000,
+        "paid_inr": 306000,
+        "paid_date": "2024-05-18",
+        "receipt_no": "MCC/TAX/2024/771029",
+        "mode": "MCC Sampark Payment Gateway"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200796",
+    "property_tax_id": "TAX-18-2023-7855",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 28716842,
+    "annual_demand_inr": 21882,
+    "rebates_applied_inr": 2188,
+    "tax_due_inr": 19694,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/586649",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 21882,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/327226",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200541",
+    "property_tax_id": "TAX-18-2024-8546",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 5905958,
+    "annual_demand_inr": 8280,
+    "rebates_applied_inr": 828,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/819080",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 8280,
+        "paid_inr": 7452,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/287519",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115808",
+    "property_tax_id": "TAX-03-2023-1728",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 4184432,
+    "annual_demand_inr": 4765,
+    "rebates_applied_inr": 476,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/350109",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 4765,
+        "paid_inr": 4288,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/929265",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083944",
+    "property_tax_id": "TAX-01-2021-8453",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 31376947,
+    "annual_demand_inr": 13802,
+    "rebates_applied_inr": 1380,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/887850",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 13802,
+        "paid_inr": 12422,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/142473",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114846",
+    "property_tax_id": "TAX-03-2021-8693",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 9113693,
+    "annual_demand_inr": 10372,
+    "rebates_applied_inr": 1037,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/213934",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 10372,
+        "paid_inr": 9335,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/378061",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010046554",
+    "property_tax_id": "TAX-25-2024-2495",
+    "local_body": "Pune Municipal Corporation (PMC)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 32557658,
+    "annual_demand_inr": 9045,
+    "rebates_applied_inr": 904,
+    "tax_due_inr": 8140,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/522486",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 9045,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/890508",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115172",
+    "property_tax_id": "TAX-03-2020-4127",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 17228197,
+    "annual_demand_inr": 11632,
+    "rebates_applied_inr": 1163,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/915288",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 11632,
+        "paid_inr": 10469,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/140344",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117775",
+    "property_tax_id": "TAX-03-2023-5417",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 90774096,
+    "annual_demand_inr": 33740,
+    "rebates_applied_inr": 3374,
+    "tax_due_inr": 30366,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/961281",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 33740,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/863681",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115865",
+    "property_tax_id": "TAX-03-2023-5456",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 58552920,
+    "annual_demand_inr": 39670,
+    "rebates_applied_inr": 3967,
+    "tax_due_inr": 35703,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/970617",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 39670,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/500784",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114814",
+    "property_tax_id": "TAX-03-2021-3597",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 6905606,
+    "annual_demand_inr": 9082,
+    "rebates_applied_inr": 908,
+    "tax_due_inr": 8174,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/545253",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 9082,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/604327",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010046552",
+    "property_tax_id": "TAX-25-2020-7187",
+    "local_body": "Pune Municipal Corporation (PMC)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 11652336,
+    "annual_demand_inr": 8325,
+    "rebates_applied_inr": 832,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/653404",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 8325,
+        "paid_inr": 7492,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/556943",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117378",
+    "property_tax_id": "TAX-03-2022-3829",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 109046772,
+    "annual_demand_inr": 38887,
+    "rebates_applied_inr": 3888,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/620047",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 38887,
+        "paid_inr": 34998,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/587433",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117666",
+    "property_tax_id": "TAX-03-2021-7794",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 29471029,
+    "annual_demand_inr": 16245,
+    "rebates_applied_inr": 1624,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/724571",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 16245,
+        "paid_inr": 14620,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/396378",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050084533",
+    "property_tax_id": "TAX-01-2023-7345",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 41586894,
+    "annual_demand_inr": 14637,
+    "rebates_applied_inr": 1463,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/861912",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 14637,
+        "paid_inr": 13173,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/535540",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010045435",
+    "property_tax_id": "TAX-25-2020-7642",
+    "local_body": "Pune Municipal Corporation (PMC)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 4314010,
+    "annual_demand_inr": 2832,
+    "rebates_applied_inr": 283,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/802361",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 2832,
+        "paid_inr": 2549,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/277501",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016771",
+    "property_tax_id": "TAX-01-2020-9533",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 54183240,
+    "annual_demand_inr": 31887,
+    "rebates_applied_inr": 3188,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/235861",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 31887,
+        "paid_inr": 28698,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/425280",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117408",
+    "property_tax_id": "TAX-03-2020-3110",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 103080921,
+    "annual_demand_inr": 36760,
+    "rebates_applied_inr": 3676,
+    "tax_due_inr": 33084,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/620685",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 36760,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/557907",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082726",
+    "property_tax_id": "TAX-01-2022-4383",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 37438282,
+    "annual_demand_inr": 26807,
+    "rebates_applied_inr": 2680,
+    "tax_due_inr": 24126,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/118833",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 26807,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/650196",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117392",
+    "property_tax_id": "TAX-03-2021-9131",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 22431780,
+    "annual_demand_inr": 11712,
+    "rebates_applied_inr": 1171,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/358807",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 11712,
+        "paid_inr": 10541,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/117869",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083438",
+    "property_tax_id": "TAX-01-2024-9008",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 17973799,
+    "annual_demand_inr": 10017,
+    "rebates_applied_inr": 1001,
+    "tax_due_inr": 9015,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/919646",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 10017,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/436163",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115952",
+    "property_tax_id": "TAX-03-2021-9402",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 49220654,
+    "annual_demand_inr": 14557,
+    "rebates_applied_inr": 1455,
+    "tax_due_inr": 13101,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/619902",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 14557,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/434384",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016889",
+    "property_tax_id": "TAX-01-2023-8841",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 23558688,
+    "annual_demand_inr": 11175,
+    "rebates_applied_inr": 1117,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/824849",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 11175,
+        "paid_inr": 10057,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/898598",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115771",
+    "property_tax_id": "TAX-03-2024-4236",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 40213382,
+    "annual_demand_inr": 14565,
+    "rebates_applied_inr": 1456,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/302459",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 14565,
+        "paid_inr": 13108,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/537376",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010047902",
+    "property_tax_id": "TAX-25-2024-6782",
+    "local_body": "Pune Municipal Corporation (PMC)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 37330914,
+    "annual_demand_inr": 18497,
+    "rebates_applied_inr": 1849,
+    "tax_due_inr": 16647,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/479444",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 18497,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/996847",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010045286",
+    "property_tax_id": "TAX-25-2021-6320",
+    "local_body": "Pune Municipal Corporation (PMC)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 14351647,
+    "annual_demand_inr": 19690,
+    "rebates_applied_inr": 1969,
+    "tax_due_inr": 17721,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/567849",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 19690,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/505850",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050084852",
+    "property_tax_id": "TAX-01-2023-1189",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 102932184,
+    "annual_demand_inr": 37165,
+    "rebates_applied_inr": 3716,
+    "tax_due_inr": 33448,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/401809",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 37165,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/402346",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050084234",
+    "property_tax_id": "TAX-01-2023-2010",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 15666645,
+    "annual_demand_inr": 12695,
+    "rebates_applied_inr": 1269,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/911869",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 12695,
+        "paid_inr": 11425,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/187636",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012401",
+    "property_tax_id": "TAX-01-2024-5864",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 22850100,
+    "annual_demand_inr": 24375,
+    "rebates_applied_inr": 2437,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/586624",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 24375,
+        "paid_inr": 21937,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/103276",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012219",
+    "property_tax_id": "TAX-01-2024-6518",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 17970678,
+    "annual_demand_inr": 33577,
+    "rebates_applied_inr": 3357,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/152024",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 33577,
+        "paid_inr": 30219,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/590851",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117539",
+    "property_tax_id": "TAX-03-2021-3893",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 46275057,
+    "annual_demand_inr": 30532,
+    "rebates_applied_inr": 3053,
+    "tax_due_inr": 27479,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/655627",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 30532,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/552572",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048192",
+    "property_tax_id": "TAX-25-2022-3747",
+    "local_body": "Pune Municipal Corporation (PMC)",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 30870444,
+    "annual_demand_inr": 30137,
+    "rebates_applied_inr": 3013,
+    "tax_due_inr": 27123,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/858659",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 30137,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/213699",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012168",
+    "property_tax_id": "TAX-01-2022-1850",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 40742978,
+    "annual_demand_inr": 21005,
+    "rebates_applied_inr": 2100,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/748703",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 21005,
+        "paid_inr": 18904,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/909033",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082385",
+    "property_tax_id": "TAX-01-2021-9115",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 55341148,
+    "annual_demand_inr": 17395,
+    "rebates_applied_inr": 1739,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/709799",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 17395,
+        "paid_inr": 15655,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/140016",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201344",
+    "property_tax_id": "TAX-18-2022-8395",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 13388163,
+    "annual_demand_inr": 13055,
+    "rebates_applied_inr": 1305,
+    "tax_due_inr": 11749,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/995497",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 13055,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/597711",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016541",
+    "property_tax_id": "TAX-01-2021-5840",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 15496074,
+    "annual_demand_inr": 16037,
+    "rebates_applied_inr": 1603,
+    "tax_due_inr": 14433,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/416961",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 16037,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/354740",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201239",
+    "property_tax_id": "TAX-18-2020-6055",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 61629374,
+    "annual_demand_inr": 25465,
+    "rebates_applied_inr": 2546,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/220704",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 25465,
+        "paid_inr": 22918,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/630051",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202928",
+    "property_tax_id": "TAX-18-2021-2607",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 42361203,
+    "annual_demand_inr": 21005,
+    "rebates_applied_inr": 2100,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/821770",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 21005,
+        "paid_inr": 18904,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/920337",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200497",
+    "property_tax_id": "TAX-18-2023-9997",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 22498560,
+    "annual_demand_inr": 11812,
+    "rebates_applied_inr": 1181,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/240637",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 11812,
+        "paid_inr": 10631,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/789954",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202959",
+    "property_tax_id": "TAX-18-2021-9551",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 11688841,
+    "annual_demand_inr": 18667,
+    "rebates_applied_inr": 1866,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/184904",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 18667,
+        "paid_inr": 16800,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/606772",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010046901",
+    "property_tax_id": "TAX-25-2021-3517",
+    "local_body": "Pune Municipal Corporation (PMC)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 28431831,
+    "annual_demand_inr": 15707,
+    "rebates_applied_inr": 1570,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/700236",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 15707,
+        "paid_inr": 14136,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/968853",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014167",
+    "property_tax_id": "TAX-01-2023-6308",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 35344605,
+    "annual_demand_inr": 21772,
+    "rebates_applied_inr": 2177,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/748072",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 21772,
+        "paid_inr": 19595,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/855002",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016717",
+    "property_tax_id": "TAX-01-2022-1903",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 46575064,
+    "annual_demand_inr": 29782,
+    "rebates_applied_inr": 2978,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/946147",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 29782,
+        "paid_inr": 26804,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/234391",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014837",
+    "property_tax_id": "TAX-01-2022-1269",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 24529137,
+    "annual_demand_inr": 8477,
+    "rebates_applied_inr": 847,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/799194",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 8477,
+        "paid_inr": 7629,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/774620",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201257",
+    "property_tax_id": "TAX-18-2023-6765",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 12136741,
+    "annual_demand_inr": 5192,
+    "rebates_applied_inr": 519,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/183269",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 5192,
+        "paid_inr": 4673,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/784647",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012674",
+    "property_tax_id": "TAX-01-2020-6350",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 81199537,
+    "annual_demand_inr": 38547,
+    "rebates_applied_inr": 3854,
+    "tax_due_inr": 34692,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/900343",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 38547,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/653379",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083176",
+    "property_tax_id": "TAX-01-2021-5557",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 27328359,
+    "annual_demand_inr": 32957,
+    "rebates_applied_inr": 3295,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/427317",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 32957,
+        "paid_inr": 29661,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/809426",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083471",
+    "property_tax_id": "TAX-01-2022-8682",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 110347738,
+    "annual_demand_inr": 34742,
+    "rebates_applied_inr": 3474,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/518650",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 34742,
+        "paid_inr": 31268,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/448465",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117665",
+    "property_tax_id": "TAX-03-2023-5451",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 68692001,
+    "annual_demand_inr": 39407,
+    "rebates_applied_inr": 3940,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/874469",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 39407,
+        "paid_inr": 35466,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/809358",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114394",
+    "property_tax_id": "TAX-03-2023-8428",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 38140128,
+    "annual_demand_inr": 25467,
+    "rebates_applied_inr": 2546,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/446005",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 25467,
+        "paid_inr": 22920,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/881949",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014304",
+    "property_tax_id": "TAX-01-2022-3683",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 54661198,
+    "annual_demand_inr": 22592,
+    "rebates_applied_inr": 2259,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/395521",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 22592,
+        "paid_inr": 20333,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/655838",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114281",
+    "property_tax_id": "TAX-03-2022-5357",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 25927629,
+    "annual_demand_inr": 11862,
+    "rebates_applied_inr": 1186,
+    "tax_due_inr": 10676,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/729284",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 11862,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/580882",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202464",
+    "property_tax_id": "TAX-18-2021-9728",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 32490554,
+    "annual_demand_inr": 10695,
+    "rebates_applied_inr": 1069,
+    "tax_due_inr": 9625,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/460182",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 10695,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/695049",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016406",
+    "property_tax_id": "TAX-01-2021-3029",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 80375534,
+    "annual_demand_inr": 25945,
+    "rebates_applied_inr": 2594,
+    "tax_due_inr": 23350,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/982829",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 25945,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/468692",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012201",
+    "property_tax_id": "TAX-01-2022-9156",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 66584865,
+    "annual_demand_inr": 17380,
+    "rebates_applied_inr": 1738,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/406408",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 17380,
+        "paid_inr": 15642,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/133039",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083416",
+    "property_tax_id": "TAX-01-2024-1669",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 9593555,
+    "annual_demand_inr": 19857,
+    "rebates_applied_inr": 1985,
+    "tax_due_inr": 17871,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/531168",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 19857,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/442659",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200862",
+    "property_tax_id": "TAX-18-2023-2624",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 16795599,
+    "annual_demand_inr": 7497,
+    "rebates_applied_inr": 749,
+    "tax_due_inr": 6747,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/343768",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 7497,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/761508",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016533",
+    "property_tax_id": "TAX-01-2020-3429",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 7303381,
+    "annual_demand_inr": 3922,
+    "rebates_applied_inr": 392,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/382071",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 3922,
+        "paid_inr": 3530,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/711865",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048777",
+    "property_tax_id": "TAX-25-2023-9498",
+    "local_body": "Pune Municipal Corporation (PMC)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 34528998,
+    "annual_demand_inr": 39287,
+    "rebates_applied_inr": 3928,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/873394",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 39287,
+        "paid_inr": 35358,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/942133",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016599",
+    "property_tax_id": "TAX-01-2021-5052",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 10240065,
+    "annual_demand_inr": 5662,
+    "rebates_applied_inr": 566,
+    "tax_due_inr": 5096,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/186709",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 5662,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/453745",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014215",
+    "property_tax_id": "TAX-01-2022-3162",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 38723088,
+    "annual_demand_inr": 13450,
+    "rebates_applied_inr": 1345,
+    "tax_due_inr": 12105,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/410036",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 13450,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/786849",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083432",
+    "property_tax_id": "TAX-01-2024-2896",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 35154560,
+    "annual_demand_inr": 18455,
+    "rebates_applied_inr": 1845,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/866795",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 18455,
+        "paid_inr": 16609,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/419638",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083633",
+    "property_tax_id": "TAX-01-2021-2757",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 120691458,
+    "annual_demand_inr": 32205,
+    "rebates_applied_inr": 3220,
+    "tax_due_inr": 28984,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/236722",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 32205,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/362318",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082749",
+    "property_tax_id": "TAX-01-2023-7182",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 25629719,
+    "annual_demand_inr": 11827,
+    "rebates_applied_inr": 1182,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/263200",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 11827,
+        "paid_inr": 10644,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/511153",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202937",
+    "property_tax_id": "TAX-18-2024-5982",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 5978181,
+    "annual_demand_inr": 7195,
+    "rebates_applied_inr": 719,
+    "tax_due_inr": 6475,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/673099",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 7195,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/404737",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201879",
+    "property_tax_id": "TAX-18-2024-7135",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 16244235,
+    "annual_demand_inr": 17027,
+    "rebates_applied_inr": 1702,
+    "tax_due_inr": 15324,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/650657",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 17027,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/752915",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202946",
+    "property_tax_id": "TAX-18-2023-2829",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 60960978,
+    "annual_demand_inr": 29337,
+    "rebates_applied_inr": 2933,
+    "tax_due_inr": 26403,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/565833",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 29337,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/557557",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020115793",
+    "property_tax_id": "TAX-03-2020-2996",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 69379716,
+    "annual_demand_inr": 27550,
+    "rebates_applied_inr": 2755,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/105555",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 27550,
+        "paid_inr": 24795,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/304755",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048913",
+    "property_tax_id": "TAX-25-2024-9129",
+    "local_body": "Pune Municipal Corporation (PMC)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 33111630,
+    "annual_demand_inr": 29125,
+    "rebates_applied_inr": 2912,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/999626",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 29125,
+        "paid_inr": 26212,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/680139",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117499",
+    "property_tax_id": "TAX-03-2022-1330",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 43915344,
+    "annual_demand_inr": 33537,
+    "rebates_applied_inr": 3353,
+    "tax_due_inr": 30183,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/581879",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 33537,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/814816",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050082553",
+    "property_tax_id": "TAX-01-2023-3264",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 11974776,
+    "annual_demand_inr": 5082,
+    "rebates_applied_inr": 508,
+    "tax_due_inr": 4574,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/453924",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 5082,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/746028",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048474",
+    "property_tax_id": "TAX-25-2022-3260",
+    "local_body": "Pune Municipal Corporation (PMC)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 39366156,
+    "annual_demand_inr": 33325,
+    "rebates_applied_inr": 3332,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/609768",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 33325,
+        "paid_inr": 29992,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/818505",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201758",
+    "property_tax_id": "TAX-18-2021-8341",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 26594949,
+    "annual_demand_inr": 27710,
+    "rebates_applied_inr": 2771,
+    "tax_due_inr": 24939,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/465440",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 27710,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/131566",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012548",
+    "property_tax_id": "TAX-01-2021-8735",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 19153375,
+    "annual_demand_inr": 18465,
+    "rebates_applied_inr": 1846,
+    "tax_due_inr": 16618,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/795899",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 18465,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/792395",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114496",
+    "property_tax_id": "TAX-03-2023-8121",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 3829271,
+    "annual_demand_inr": 3942,
+    "rebates_applied_inr": 394,
+    "tax_due_inr": 3548,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/994868",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 3942,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/610211",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200212",
+    "property_tax_id": "TAX-18-2023-2352",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 70589270,
+    "annual_demand_inr": 29480,
+    "rebates_applied_inr": 2948,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/769912",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 29480,
+        "paid_inr": 26532,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/365203",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014927",
+    "property_tax_id": "TAX-01-2021-9368",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 44539651,
+    "annual_demand_inr": 21410,
+    "rebates_applied_inr": 2141,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/630743",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 21410,
+        "paid_inr": 19269,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/372217",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083203",
+    "property_tax_id": "TAX-01-2020-2508",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 49169304,
+    "annual_demand_inr": 35445,
+    "rebates_applied_inr": 3544,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/518975",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 35445,
+        "paid_inr": 31900,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/576174",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020117129",
+    "property_tax_id": "TAX-03-2021-3362",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 20228715,
+    "annual_demand_inr": 22327,
+    "rebates_applied_inr": 2232,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/697816",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 22327,
+        "paid_inr": 20094,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/856130",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201618",
+    "property_tax_id": "TAX-18-2021-1867",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 28537278,
+    "annual_demand_inr": 16255,
+    "rebates_applied_inr": 1625,
+    "tax_due_inr": 14629,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/406257",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 16255,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/651163",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060201416",
+    "property_tax_id": "TAX-18-2023-9713",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 49059113,
+    "annual_demand_inr": 26647,
+    "rebates_applied_inr": 2664,
+    "tax_due_inr": 23982,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/690551",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 26647,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/288668",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050084788",
+    "property_tax_id": "TAX-01-2024-3699",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 90759948,
+    "annual_demand_inr": 36122,
+    "rebates_applied_inr": 3612,
+    "tax_due_inr": 32510,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/822480",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 36122,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/585742",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014882",
+    "property_tax_id": "TAX-01-2024-1457",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 79407668,
+    "annual_demand_inr": 33485,
+    "rebates_applied_inr": 3348,
+    "tax_due_inr": 30136,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/447508",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 33485,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/985074",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016583",
+    "property_tax_id": "TAX-01-2022-2728",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 76872852,
+    "annual_demand_inr": 26297,
+    "rebates_applied_inr": 2629,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/752037",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 26297,
+        "paid_inr": 23667,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/105587",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114546",
+    "property_tax_id": "TAX-03-2024-6365",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 56331514,
+    "annual_demand_inr": 24282,
+    "rebates_applied_inr": 2428,
+    "tax_due_inr": 21854,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/549311",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 24282,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/391057",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010016976",
+    "property_tax_id": "TAX-01-2022-1588",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 33714114,
+    "annual_demand_inr": 10797,
+    "rebates_applied_inr": 1079,
+    "tax_due_inr": 9717,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/130737",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 10797,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/288058",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010047398",
+    "property_tax_id": "TAX-25-2024-8112",
+    "local_body": "Pune Municipal Corporation (PMC)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 41849829,
+    "annual_demand_inr": 20387,
+    "rebates_applied_inr": 2038,
+    "tax_due_inr": 18348,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/597448",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 20387,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/379446",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048604",
+    "property_tax_id": "TAX-25-2022-5693",
+    "local_body": "Pune Municipal Corporation (PMC)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 14320627,
+    "annual_demand_inr": 13082,
+    "rebates_applied_inr": 1308,
+    "tax_due_inr": 11774,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/649659",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 13082,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/309272",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010048406",
+    "property_tax_id": "TAX-25-2022-7097",
+    "local_body": "Pune Municipal Corporation (PMC)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 26229294,
+    "annual_demand_inr": 17587,
+    "rebates_applied_inr": 1758,
+    "tax_due_inr": 15828,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/610735",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 17587,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/951026",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202939",
+    "property_tax_id": "TAX-18-2020-4340",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 39644115,
+    "annual_demand_inr": 18572,
+    "rebates_applied_inr": 1857,
+    "tax_due_inr": 16715,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/159749",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 18572,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/837397",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050083415",
+    "property_tax_id": "TAX-01-2024-7458",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 15972322,
+    "annual_demand_inr": 15115,
+    "rebates_applied_inr": 1511,
+    "tax_due_inr": 13603,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/463876",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 15115,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/743443",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "33010050084929",
+    "property_tax_id": "TAX-01-2023-9096",
+    "local_body": "Tambaram City Municipal Corporation",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 2357866,
+    "annual_demand_inr": 4685,
+    "rebates_applied_inr": 468,
+    "tax_due_inr": 4216,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/527543",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 4685,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/882017",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010014672",
+    "property_tax_id": "TAX-01-2023-5778",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 12008460,
+    "annual_demand_inr": 9650,
+    "rebates_applied_inr": 965,
+    "tax_due_inr": 8685,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/332597",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 9650,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/614237",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010046209",
+    "property_tax_id": "TAX-25-2021-9306",
+    "local_body": "Pune Municipal Corporation (PMC)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 28356350,
+    "annual_demand_inr": 20385,
+    "rebates_applied_inr": 2038,
+    "tax_due_inr": 18346,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/859387",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 20385,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/117539",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012931",
+    "property_tax_id": "TAX-01-2020-2409",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 1853094,
+    "annual_demand_inr": 3202,
+    "rebates_applied_inr": 320,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/136469",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 3202,
+        "paid_inr": 2882,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/269314",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "04010010012908",
+    "property_tax_id": "TAX-01-2021-6599",
+    "local_body": "Municipal Corporation Chandigarh (MCC)",
+    "rate_zone": "Zone 3",
+    "assessed_value_inr": 63988394,
+    "annual_demand_inr": 38590,
+    "rebates_applied_inr": 3859,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/282551",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 38590,
+        "paid_inr": 34731,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/684054",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202997",
+    "property_tax_id": "TAX-18-2024-6698",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 78819098,
+    "annual_demand_inr": 27177,
+    "rebates_applied_inr": 2717,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/232406",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 27177,
+        "paid_inr": 24459,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/986877",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060200375",
+    "property_tax_id": "TAX-18-2021-7566",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 56880907,
+    "annual_demand_inr": 37055,
+    "rebates_applied_inr": 3705,
+    "tax_due_inr": 33349,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/963613",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 37055,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/218175",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "29180060202848",
+    "property_tax_id": "TAX-18-2021-5518",
+    "local_body": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "rate_zone": "Zone 1",
+    "assessed_value_inr": 43380932,
+    "annual_demand_inr": 27697,
+    "rebates_applied_inr": 2769,
+    "tax_due_inr": 24927,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/840514",
+    "payment_status": "Pending Payment",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 27697,
+        "paid_inr": 0,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/221128",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "09030020114739",
+    "property_tax_id": "TAX-03-2022-4208",
+    "local_body": "Lucknow Nagar Nigam (LNN)",
+    "rate_zone": "Zone 4",
+    "assessed_value_inr": 43906492,
+    "annual_demand_inr": 16580,
+    "rebates_applied_inr": 1658,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/503007",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 16580,
+        "paid_inr": 14922,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/252071",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  },
+  {
+    "ulpin": "27250010045431",
+    "property_tax_id": "TAX-25-2023-5813",
+    "local_body": "Pune Municipal Corporation (PMC)",
+    "rate_zone": "Zone 2",
+    "assessed_value_inr": 56818040,
+    "annual_demand_inr": 35557,
+    "rebates_applied_inr": 3555,
+    "tax_due_inr": 0,
+    "last_paid_date": "2024-04-20",
+    "last_receipt_no": "REC/435015",
+    "payment_status": "Fully Paid",
+    "payment_history": [
+      {
+        "financial_year": "2024-2025",
+        "demand_inr": 35557,
+        "paid_inr": 32001,
+        "paid_date": "2024-04-20",
+        "receipt_no": "REC/599089",
+        "mode": "UPI / Bharat BillPay (BBPS)"
+      }
+    ]
+  }
+]

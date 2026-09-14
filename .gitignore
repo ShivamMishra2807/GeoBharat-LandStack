@@ -1,0 +1,28 @@
+# ===== Node / Frontend =====
+node_modules/
+dist/
+.vite/
+
+# Environment files — contains secrets, do NOT commit
+.env
+.env.local
+.env.*.local
+
+# Keep .env.example (safe, no secrets)
+!.env.example
+
+# ===== Python / Django Backend =====
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/**/*.pyc
+backend/.env
+backend/.env.local
+
+# ===== Editor / OS =====
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/settings.json
