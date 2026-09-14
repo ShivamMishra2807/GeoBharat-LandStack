@@ -1,4 +1,5 @@
 # 🇮🇳 GeoBharat LandStack 2026
+Live Demo : https://geo-bharat-land-stack.vercel.app/
 ### National 3-Layer GIS Land Governance Platform • Bhu-Aadhaar (ULPIN)
 
 GeoBharat is a pan-Indian, multi-tier cadastral land governance platform built to demonstrate seamless citizen services, revenue department scrutiny workflows, cross-departmental synchronization (SRO, Revenue, Town Planning, Municipal Tax), and universal regional unit normalization.
