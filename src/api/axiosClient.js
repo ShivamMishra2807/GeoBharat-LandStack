@@ -31,11 +31,31 @@ axiosClient.interceptors.request.use(
   (error) => Promise.reject(error)
 );
 
-// Response interceptor
+// Response interceptor: automatically fall back to mockAdapter if real backend is asleep or times out
 axiosClient.interceptors.response.use(
   (response) => response.data,
-  (error) => {
+  async (error) => {
     console.error('[API Error]:', error.response || error.message);
+
+    // If network error, timeout (ECONNABORTED / timeout of 10000ms exceeded), or backend 502/503/504
+    const isNetworkOrTimeout =
+      error.code === 'ECONNABORTED' ||
+      error.code === 'ERR_NETWORK' ||
+      !error.response ||
+      error.message?.includes('timeout') ||
+      error.response?.status >= 502;
+
+    if (isNetworkOrTimeout && error.config && !error.config._fallbackTried) {
+      console.warn('[API Fallback]: Backend unreachable or timed out. Falling back to local data adapter.');
+      try {
+        const fallbackConfig = { ...error.config, _fallbackTried: true };
+        const mockResponse = await mockAdapterHandler(fallbackConfig);
+        return mockResponse.data;
+      } catch (mockErr) {
+        console.error('[Mock Fallback Error]:', mockErr);
+      }
+    }
+
     const data = error.response?.data;
     if (data) {
       if (typeof data === 'string') {
