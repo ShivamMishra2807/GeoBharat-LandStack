@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { authApi } from '../../../api/authApi';
-import { formatULPIN, formatDate, formatINR } from '../../../utils/formatters';
+import { formatULPIN, formatDate, formatINR, extractErrorMessage } from '../../../utils/formatters';
 import { Shield, CheckCircle2, XCircle, FileText, AlertTriangle, Stamp, FileSignature } from 'lucide-react';
 import Modal from '../../../components/ui/Modal';
 import Button from '../../../components/ui/Button';
@@ -23,7 +23,7 @@ export const ApprovalWorkflow = ({ item, isOpen, onClose, onActionCompleted }) =
       if (onActionCompleted) onActionCompleted();
       onClose();
     } catch (err) {
-      setErrorMsg('Failed to record official action. Please retry.');
+      setErrorMsg(extractErrorMessage(err, 'Failed to record official action. Please retry.'));
     } finally {
       setLoading(false);
     }

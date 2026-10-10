@@ -3,8 +3,13 @@ import { mockAdapterHandler } from '../mocks/mockAdapter';
 
 const isMockEnabled = import.meta.env.VITE_USE_MOCK !== 'false';
 
+let rawBaseUrl = import.meta.env.VITE_API_BASE_URL || '/api/v1';
+if (rawBaseUrl.startsWith('=')) {
+  rawBaseUrl = rawBaseUrl.slice(1);
+}
+
 const axiosClient = axios.create({
-  baseURL: import.meta.env.VITE_API_BASE_URL || '/api/v1',
+  baseURL: rawBaseUrl,
   timeout: 10000,
   headers: {
     'Content-Type': 'application/json',
@@ -31,7 +36,21 @@ axiosClient.interceptors.response.use(
   (response) => response.data,
   (error) => {
     console.error('[API Error]:', error.response || error.message);
-    return Promise.reject(error.response?.data || error);
+    const data = error.response?.data;
+    if (data) {
+      if (typeof data === 'string') {
+        error.error = data;
+      } else if (typeof data.error === 'string') {
+        error.error = data.error;
+      } else if (typeof data.message === 'string') {
+        error.error = data.message;
+      } else if (typeof data.detail === 'string') {
+        error.error = data.detail;
+      } else if (data.message && typeof data.message === 'object' && typeof data.message.message === 'string') {
+        error.error = data.message.message;
+      }
+    }
+    return Promise.reject(data || error);
   }
 );
 

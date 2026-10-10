@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { ownershipApi } from '../../../api/ownershipApi';
-import { formatINR, formatDate, getStatusBadgeColor } from '../../../utils/formatters';
+import { formatINR, formatDate, getStatusBadgeColor, extractErrorMessage } from '../../../utils/formatters';
 import { FileText, Users, MapPin, Scale, Clock, ShieldCheck, Loader2 } from 'lucide-react';
 import Badge from '../../../components/ui/Badge';
 
@@ -48,7 +48,7 @@ export const RoRCard = ({ ulpin }) => {
       <div className="p-6 text-center bg-slate-50 rounded-xl border border-slate-200">
         <FileText className="w-8 h-8 text-slate-300 mx-auto mb-2" />
         <p className="text-xs font-semibold text-slate-700">Record Not Available</p>
-        <p className="text-[11px] text-slate-400 mt-1">{error || 'No matching cadastral ledger entry found.'}</p>
+        <p className="text-[11px] text-slate-400 mt-1">{extractErrorMessage(error, 'No matching cadastral ledger entry found.')}</p>
       </div>
     );
   }

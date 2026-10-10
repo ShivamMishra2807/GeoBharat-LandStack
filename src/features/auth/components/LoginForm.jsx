@@ -3,6 +3,7 @@ import { useNavigate, useSearchParams } from 'react-router-dom';
 import useAuth from '../hooks/useAuth';
 import { Shield, UserCheck, Landmark, UserPlus, LogIn, CheckCircle2, AlertCircle, ArrowRight, KeyRound, Mail, User } from 'lucide-react';
 import Button from '../../../components/ui/Button';
+import { extractErrorMessage } from '../../../utils/formatters';
 
 export const LoginForm = ({ onSuccess }) => {
   const { login, signup, user: currentUser } = useAuth();
@@ -62,7 +63,7 @@ export const LoginForm = ({ onSuccess }) => {
         navigate(redirectPath || '/portal');
       }
     } catch (err) {
-      setErrorMsg(err.error || err.message || 'Authentication failed. Please verify details.');
+      setErrorMsg(extractErrorMessage(err, 'Authentication failed. Please verify details.'));
     } finally {
       setLoading(false);
     }
@@ -86,7 +87,7 @@ export const LoginForm = ({ onSuccess }) => {
         navigate(redirectPath || '/dashboard');
       }
     } catch (err) {
-      setErrorMsg(err.error || err.message || 'Invalid admin credentials. (Hint: admin / admin123)');
+      setErrorMsg(extractErrorMessage(err, 'Invalid admin credentials. (Hint: admin / admin123)'));
     } finally {
       setLoading(false);
     }

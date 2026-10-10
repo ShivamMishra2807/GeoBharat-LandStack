@@ -110,3 +110,69 @@ export const getStatusBadgeColor = (status) => {
   }
   return 'bg-slate-100 text-slate-700 border-slate-200';
 };
+
+/**
+ * Safely extracts human-readable string message from any error payload
+ * (including Axios errors, Django REST Framework {code, message} objects,
+ * validation objects, nested details, and standard Error instances).
+ * Guarantees a string is returned, preventing React error #31 (Objects are not valid as a React child).
+ */
+export const extractErrorMessage = (err, fallback = 'An unexpected error occurred. Please try again.') => {
+  if (!err) return fallback;
+  if (typeof err === 'string') return err;
+
+  // 1. Direct message / error property
+  if (typeof err.message === 'string' && err.message.trim()) {
+    return err.message;
+  }
+  if (typeof err.error === 'string' && err.error.trim()) {
+    return err.error;
+  }
+  if (typeof err.detail === 'string' && err.detail.trim()) {
+    return err.detail;
+  }
+
+  // 2. Nested {code, message} pattern (DRF/API error structure)
+  if (err.message && typeof err.message === 'object') {
+    if (typeof err.message.message === 'string') return err.message.message;
+    if (typeof err.message.detail === 'string') return err.message.detail;
+  }
+  if (err.error && typeof err.error === 'object') {
+    if (typeof err.error.message === 'string') return err.error.message;
+    if (typeof err.error.detail === 'string') return err.error.detail;
+  }
+
+  // 3. Axios response.data
+  const data = err.response?.data || (typeof err.data === 'object' ? err.data : null);
+  if (data) {
+    if (typeof data === 'string') return data;
+    if (typeof data.message === 'string') return data.message;
+    if (typeof data.error === 'string') return data.error;
+    if (typeof data.detail === 'string') return data.detail;
+    if (data.code && typeof data.message === 'string') return data.message;
+    // Django REST Framework field validation errors: { field: ['error1', 'error2'] }
+    if (typeof data === 'object') {
+      const messages = Object.entries(data)
+        .map(([field, val]) => {
+          if (Array.isArray(val)) return `${field}: ${val.join(', ')}`;
+          if (typeof val === 'string') return `${field}: ${val}`;
+          if (typeof val === 'object' && val !== null) return `${field}: ${JSON.stringify(val)}`;
+          return null;
+        })
+        .filter(Boolean);
+      if (messages.length > 0) return messages.join('; ');
+    }
+  }
+
+  // 4. Array of errors
+  if (Array.isArray(err)) {
+    return err.map((item) => extractErrorMessage(item, '')).filter(Boolean).join('; ') || fallback;
+  }
+
+  // 5. General object with code
+  if (err.code && typeof err.code === 'string') {
+    return `Error [${err.code}]`;
+  }
+
+  return fallback;
+};

@@ -27,6 +27,7 @@ import {
   ChevronRight
 } from 'lucide-react';
 import Button from '../../components/ui/Button';
+import { extractErrorMessage } from '../../utils/formatters';
 
 export const LandingPage = () => {
   const { user, login, signup, logout, isAuthenticated, role } = useAuth();
@@ -80,7 +81,7 @@ export const LandingPage = () => {
       }
       navigate('/dashboard');
     } catch (err) {
-      setErrorMsg(err.error || err.message || 'Authentication failed. Please verify credentials.');
+      setErrorMsg(extractErrorMessage(err, 'Authentication failed. Please verify credentials.'));
     } finally {
       setLoading(false);
     }
@@ -99,7 +100,7 @@ export const LandingPage = () => {
       });
       navigate('/dashboard');
     } catch (err) {
-      setErrorMsg(err.error || err.message || 'Invalid admin credentials. (Hint: admin / admin123)');
+      setErrorMsg(extractErrorMessage(err, 'Invalid admin credentials. (Hint: admin / admin123)'));
     } finally {
       setLoading(false);
     }
@@ -120,7 +121,7 @@ export const LandingPage = () => {
         navigate('/dashboard');
       }
     } catch (err) {
-      setErrorMsg('Failed to log in with demo account.');
+      setErrorMsg(extractErrorMessage(err, 'Failed to log in with demo account.'));
     } finally {
       setLoading(false);
     }

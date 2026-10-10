@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { taxationApi } from '../../../api/taxationApi';
-import { formatINR, formatDate, getStatusBadgeColor } from '../../../utils/formatters';
+import { formatINR, formatDate, getStatusBadgeColor, extractErrorMessage } from '../../../utils/formatters';
 import { IndianRupee, Receipt, CreditCard, CheckCircle2, AlertCircle, Loader2 } from 'lucide-react';
 import Button from '../../../components/ui/Button';
 
@@ -65,7 +65,7 @@ export const TaxationCard = ({ ulpin }) => {
       <div className="p-6 text-center bg-slate-50 rounded-xl border border-slate-200">
         <IndianRupee className="w-8 h-8 text-slate-300 mx-auto mb-2" />
         <p className="text-xs font-semibold text-slate-700">Tax Data Not Available</p>
-        <p className="text-[11px] text-slate-400 mt-1">{error || 'No property tax record found for this parcel.'}</p>
+        <p className="text-[11px] text-slate-400 mt-1">{extractErrorMessage(error, 'No property tax record found for this parcel.')}</p>
       </div>
     );
   }

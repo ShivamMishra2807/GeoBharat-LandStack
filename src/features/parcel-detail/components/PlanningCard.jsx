@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { planningApi } from '../../../api/planningApi';
-import { getStatusBadgeColor } from '../../../utils/formatters';
+import { getStatusBadgeColor, extractErrorMessage } from '../../../utils/formatters';
 import { Building2, Compass, Ruler, ShieldCheck, Loader2 } from 'lucide-react';
 import Badge from '../../../components/ui/Badge';
 
@@ -48,7 +48,7 @@ export const PlanningCard = ({ ulpin }) => {
       <div className="p-6 text-center bg-slate-50 rounded-xl border border-slate-200">
         <Building2 className="w-8 h-8 text-slate-300 mx-auto mb-2" />
         <p className="text-xs font-semibold text-slate-700">Planning Data Not Available</p>
-        <p className="text-[11px] text-slate-400 mt-1">{error || 'No urban development plan mapped for this parcel.'}</p>
+        <p className="text-[11px] text-slate-400 mt-1">{extractErrorMessage(error, 'No urban development plan mapped for this parcel.')}</p>
       </div>
     );
   }

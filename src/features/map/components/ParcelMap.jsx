@@ -9,6 +9,7 @@ import PilotContextFilter from './PilotContextFilter';
 import { getPolygonBounds, getPolygonVertices, getPolygonCentroid } from '../../../utils/geojsonHelpers';
 import { Loader2, Layers, MapPin, Zap, Droplets, ShieldCheck, Globe, Eye, Landmark, Compass, X, Info } from 'lucide-react';
 import useAuth from '../../auth/hooks/useAuth';
+import { extractErrorMessage } from '../../../utils/formatters';
 
 // Fix default Leaflet icon assets
 delete L.Icon.Default.prototype._getIconUrl;
@@ -434,7 +435,7 @@ export const ParcelMap = () => {
       {/* Error state */}
       {error && (
         <div className="absolute top-4 left-1/2 -translate-x-1/2 z-30 bg-rose-50 border border-rose-200 text-rose-700 text-xs px-4 py-2 rounded-lg shadow-md">
-          {error}
+          {extractErrorMessage(error)}
         </div>
       )}
 

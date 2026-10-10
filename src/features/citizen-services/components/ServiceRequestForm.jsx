@@ -4,6 +4,7 @@ import useAppStore from '../../../store';
 import { authApi } from '../../../api/authApi';
 import { FileCheck, Send, CheckCircle2, AlertCircle, Sparkles } from 'lucide-react';
 import Button from '../../../components/ui/Button';
+import { extractErrorMessage } from '../../../utils/formatters';
 
 export const ServiceRequestForm = ({ onSubmitted }) => {
   const [searchParams] = useSearchParams();
@@ -52,7 +53,7 @@ export const ServiceRequestForm = ({ onSubmitted }) => {
       if (onSubmitted) onSubmitted(res);
       setFormData((prev) => ({ ...prev, remarks: '' }));
     } catch (err) {
-      setErrorMsg('Failed to submit request. Please try again.');
+      setErrorMsg(extractErrorMessage(err, 'Failed to submit request. Please try again.'));
     } finally {
       setLoading(false);
     }

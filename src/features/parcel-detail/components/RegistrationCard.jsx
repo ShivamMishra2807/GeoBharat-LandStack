@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { registrationApi } from '../../../api/registrationApi';
-import { formatINR, formatDate, getStatusBadgeColor } from '../../../utils/formatters';
+import { formatINR, formatDate, getStatusBadgeColor, extractErrorMessage } from '../../../utils/formatters';
 import { FileBadge2, Landmark, AlertTriangle, ShieldCheck, CheckCircle2, Loader2, Calendar } from 'lucide-react';
 import Badge from '../../../components/ui/Badge';
 
@@ -48,7 +48,7 @@ export const RegistrationCard = ({ ulpin }) => {
       <div className="p-6 text-center bg-slate-50 rounded-xl border border-slate-200">
         <FileBadge2 className="w-8 h-8 text-slate-300 mx-auto mb-2" />
         <p className="text-xs font-semibold text-slate-700">Deed Record Not Available</p>
-        <p className="text-[11px] text-slate-400 mt-1">{error || 'No registered deed matching ULPIN in SRO database.'}</p>
+        <p className="text-[11px] text-slate-400 mt-1">{extractErrorMessage(error, 'No registered deed matching ULPIN in SRO database.')}</p>
       </div>
     );
   }

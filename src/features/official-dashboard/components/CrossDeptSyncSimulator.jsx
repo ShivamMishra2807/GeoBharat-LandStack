@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axiosClient from '../../../api/axiosClient';
-import { formatULPIN, formatINR } from '../../../utils/formatters';
+import { formatULPIN, formatINR, extractErrorMessage } from '../../../utils/formatters';
 import { ArrowRight, CheckCircle2, Play, RefreshCw, Landmark, FileText, IndianRupee, Bell, Sparkles } from 'lucide-react';
 import Button from '../../../components/ui/Button';
 
@@ -12,6 +12,8 @@ export const CrossDeptSyncSimulator = ({ onSyncCompleted, selectedUlpin }) => {
   const [simulating, setSimulating] = useState(false);
   const [activeStep, setActiveStep] = useState(-1);
   const [syncResult, setSyncResult] = useState(null);
+
+  const [simError, setSimError] = useState('');
 
   useEffect(() => {
     if (selectedUlpin) {
@@ -29,6 +31,7 @@ export const CrossDeptSyncSimulator = ({ onSyncCompleted, selectedUlpin }) => {
   const handleRunSimulation = async () => {
     setSimulating(true);
     setSyncResult(null);
+    setSimError('');
     setActiveStep(0);
 
     // Step 1: SRO
@@ -54,6 +57,7 @@ export const CrossDeptSyncSimulator = ({ onSyncCompleted, selectedUlpin }) => {
       if (onSyncCompleted) onSyncCompleted();
     } catch (err) {
       console.error('Simulation failed:', err);
+      setSimError(extractErrorMessage(err, 'Cross-departmental synchronization failed.'));
     } finally {
       setSimulating(false);
     }
@@ -177,6 +181,13 @@ export const CrossDeptSyncSimulator = ({ onSyncCompleted, selectedUlpin }) => {
         })}
       </div>
 
+      {/* Error Log Response */}
+      {simError && (
+        <div className="p-3.5 bg-rose-50 border border-rose-200 rounded-xl text-rose-800 text-xs">
+          {simError}
+        </div>
+      )}
+
       {/* Sync Log Response */}
       {syncResult && (
         <div className="p-3.5 bg-emerald-50 border border-emerald-200 rounded-xl space-y-2 text-emerald-950 animate-fadeIn">
@@ -189,11 +200,11 @@ export const CrossDeptSyncSimulator = ({ onSyncCompleted, selectedUlpin }) => {
           </div>
 
           <div className="space-y-1 text-[11px] pt-1 border-t border-emerald-200/70">
-            {syncResult.steps.map((st, sIdx) => (
+            {syncResult.steps?.map((st, sIdx) => (
               <div key={sIdx} className="flex items-start gap-2">
                 <span className="text-emerald-700 font-bold">•</span>
                 <p>
-                  <strong>{st.system}:</strong> {st.message}
+                  <strong>{st.system}:</strong> {typeof st.message === 'object' ? (st.message.message || JSON.stringify(st.message)) : String(st.message || '')}
                 </p>
               </div>
             ))}
